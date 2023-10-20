@@ -1,29 +1,45 @@
-html, body, .container {
-    height: 100%;
-}
-
-.container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-
 body {
     font-family: 'Heebo', sans-serif;
-    margin: auto 300px;
+    padding: 30px 0;
 }
 
+
 #text {
-    padding: 8px;
+    overflow-y: scroll;
+    padding: 90px 8px;
     font-size: 24px;
+}
+
+#audio {
+    width: 100%;
+    position: fixed;
 }
 
 span.word {
     cursor: pointer;
 }
 
+span.word:hover {
+    opacity: 0.7;
+}
+
 .highlighted {
     font-weight: bold;
+}
+
+
+@media screen and (min-width: 900px) {
+    body {
+        margin: auto 100px;
+    }
+
+    #text {
+        font-size: 36px;
+    }
+    }
+
+@media screen and (min-width: 1568px) {
+    body {
+        margin: auto 300px;
+    }
 }

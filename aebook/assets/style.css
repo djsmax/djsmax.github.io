@@ -1,0 +1,29 @@
+html, body, .container {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+body {
+    font-family: 'Heebo', sans-serif;
+    margin: auto 300px;
+}
+
+#text {
+    padding: 8px;
+    font-size: 24px;
+}
+
+span.word {
+    cursor: pointer;
+}
+
+.highlighted {
+    font-weight: bold;
+}

@@ -1,8 +1,12 @@
-const SRC = {"text": " Harry Potter and the Philosopher's Stone by J.K. Rowling. Chapter 1. The Boy Who Lived. Mr. and Mrs. Dersley of number four, Privit Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense. Mr. Dersley was the director of a firm called Grunnings, which made drills. He was a big, beefy man with hardly any neck, although he didn't have a very large moustache. Mrs. Dersley was thin and blond and had nearly twice the usual amount of neck, which came in very useful, as she spent so much of her time craning over garden fences, spying on the neighbours. The Dersley's had a small son called Dudley, and in their opinion there was no finer boy anywhere. The Dersley's had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. They didn't think they could bear it if anyone found out about the potters. Mrs. Potter was Mrs. Dersley's sister, but they hadn't met for several years. In fact, Mrs. Dersley pretended she didn't have a sister, because her sister and her good-for-nothing husband were as undersleyish as it was possible to be. The Dersley's shudder to think what the neighbours would say if the potters arrived in the street. The Dersley's knew that the potters had a small son too, but they had never seen him. This boy was another good reason for keeping the potters away. They didn't want Dudley, mixing with a child like that. When Mr. and Mrs. Dersley woke up on the dull grey Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr. Dersley hummed, as he picked out his most boring tie for work, and Mrs. Dersley gossiped away happily, as she wrestled a screaming Dudley into his high chair. None of them noticed a large, tawny owl flutter past the window. At half past eight, Mr. Dersley picked up his briefcase, picked Mrs. Dersley on the cheek, and tried to kiss Dudley goodbye, but missed, because Dudley was now having a tantrum and throwing his cereal at the walls. A little tight, chockled Mr. Dersley as he left the house. He got into his car and backed out of number four's drive. It was on the corner of the street that he noticed the first sign of something peculiar, a cat reading a map. For a second, Mr. Dersley didn't realise what he had seen, then he jerked his head around to look again. There was a tabby cat standing on the corner of private drive, but there wasn't a map inside. What could he have been thinking of? It must have been a trick of the light. Mr. Dersley blinked and stared at the cat. It stared back. As Mr. Dersley drove around the corner and up the road, he watched the cat in his mirror. It was now reading the sign that said, privy drive. No, looking at the sign. Cats couldn't read maps or signs. Mr. Dersley gave himself a little shake and put the cat out of his mind. As he drove towards town, he thought of nothing except a large order of drills he was hoping to get that day. But on the edge of town drills were driven out of his mind by something else. As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in cloaks. Mr. Dersley couldn't bear people who dressed in funny clothes. The get-ups you saw on young people. He suppose this was some stupid new fashion. He drummed his fingers on the steering wheel and his eyes fell on a huddle of these weirdos standing quite close by. They were whispering excitedly together. Mr. Dersley was enraged to see that a couple of them weren't young at all. Why that man had to be older than he was and wearing an emerald green cloak. The nerve of him. But then it struck Mr. Dersley that this was probably some silly stunt.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 7.0, "text": " Harry Potter and the Philosopher's Stone by J.K. Rowling.", "tokens": [50364, 9378, 18115, 293, 264, 31182, 16754, 311, 15012, 538, 508, 13, 42, 13, 20309, 1688, 13, 50714], "temperature": 0.0, "avg_logprob": -0.30964643955230714, "compression_ratio": 1.3663366336633664, "no_speech_prob": 0.11867327988147736}, {"id": 1, "seek": 0, "start": 7.0, "end": 13.0, "text": " Chapter 1. The Boy Who Lived.", "tokens": [50714, 18874, 502, 13, 440, 9486, 2102, 441, 3194, 13, 51014], "temperature": 0.0, "avg_logprob": -0.30964643955230714, "compression_ratio": 1.3663366336633664, "no_speech_prob": 0.11867327988147736}, {"id": 2, "seek": 0, "start": 13.0, "end": 19.2, "text": " Mr. and Mrs. Dersley of number four, Privit Drive, were proud to say that they were perfectly", "tokens": [51014, 2221, 13, 293, 9814, 13, 413, 433, 3420, 295, 1230, 1451, 11, 2114, 592, 270, 15622, 11, 645, 4570, 281, 584, 300, 436, 645, 6239, 51324], "temperature": 0.0, "avg_logprob": -0.30964643955230714, "compression_ratio": 1.3663366336633664, "no_speech_prob": 0.11867327988147736}, {"id": 3, "seek": 0, "start": 19.2, "end": 24.84, "text": " normal, thank you very much. They were the last people you'd expect to be involved in anything", "tokens": [51324, 2710, 11, 1309, 291, 588, 709, 13, 814, 645, 264, 1036, 561, 291, 1116, 2066, 281, 312, 3288, 294, 1340, 51606], "temperature": 0.0, "avg_logprob": -0.30964643955230714, "compression_ratio": 1.3663366336633664, "no_speech_prob": 0.11867327988147736}, {"id": 4, "seek": 2484, "start": 24.919999999999998, "end": 31.6, "text": " strange or mysterious, because they just didn't hold with such nonsense.", "tokens": [50368, 5861, 420, 13831, 11, 570, 436, 445, 994, 380, 1797, 365, 1270, 14925, 13, 50702], "temperature": 0.0, "avg_logprob": -0.22425422668457032, "compression_ratio": 1.5514018691588785, "no_speech_prob": 0.025329111143946648}, {"id": 5, "seek": 2484, "start": 31.6, "end": 37.44, "text": " Mr. Dersley was the director of a firm called Grunnings, which made drills. He was", "tokens": [50702, 2221, 13, 413, 433, 3420, 390, 264, 5391, 295, 257, 6174, 1219, 2606, 409, 24451, 11, 597, 1027, 36126, 13, 634, 390, 50994], "temperature": 0.0, "avg_logprob": -0.22425422668457032, "compression_ratio": 1.5514018691588785, "no_speech_prob": 0.025329111143946648}, {"id": 6, "seek": 2484, "start": 37.44, "end": 44.04, "text": " a big, beefy man with hardly any neck, although he didn't have a very large moustache.", "tokens": [50994, 257, 955, 11, 9256, 88, 587, 365, 13572, 604, 6189, 11, 4878, 415, 994, 380, 362, 257, 588, 2416, 275, 15849, 6000, 13, 51324], "temperature": 0.0, "avg_logprob": -0.22425422668457032, "compression_ratio": 1.5514018691588785, "no_speech_prob": 0.025329111143946648}, {"id": 7, "seek": 2484, "start": 44.04, "end": 49.0, "text": " Mrs. Dersley was thin and blond and had nearly twice the usual amount of neck, which came", "tokens": [51324, 9814, 13, 413, 433, 3420, 390, 5862, 293, 48537, 293, 632, 6217, 6091, 264, 7713, 2372, 295, 6189, 11, 597, 1361, 51572], "temperature": 0.0, "avg_logprob": -0.22425422668457032, "compression_ratio": 1.5514018691588785, "no_speech_prob": 0.025329111143946648}, {"id": 8, "seek": 4900, "start": 49.0, "end": 54.76, "text": " in very useful, as she spent so much of her time craning over garden fences, spying", "tokens": [50364, 294, 588, 4420, 11, 382, 750, 4418, 370, 709, 295, 720, 565, 941, 8415, 670, 7431, 45796, 11, 637, 1840, 50652], "temperature": 0.0, "avg_logprob": -0.19970321655273438, "compression_ratio": 1.627906976744186, "no_speech_prob": 0.015815474092960358}, {"id": 9, "seek": 4900, "start": 54.76, "end": 61.6, "text": " on the neighbours. The Dersley's had a small son called Dudley, and in their opinion there", "tokens": [50652, 322, 264, 35548, 13, 440, 413, 433, 3420, 311, 632, 257, 1359, 1872, 1219, 42622, 3420, 11, 293, 294, 641, 4800, 456, 50994], "temperature": 0.0, "avg_logprob": -0.19970321655273438, "compression_ratio": 1.627906976744186, "no_speech_prob": 0.015815474092960358}, {"id": 10, "seek": 4900, "start": 61.6, "end": 70.6, "text": " was no finer boy anywhere. The Dersley's had everything they wanted, but they also had a", "tokens": [50994, 390, 572, 39130, 3237, 4992, 13, 440, 413, 433, 3420, 311, 632, 1203, 436, 1415, 11, 457, 436, 611, 632, 257, 51444], "temperature": 0.0, "avg_logprob": -0.19970321655273438, "compression_ratio": 1.627906976744186, "no_speech_prob": 0.015815474092960358}, {"id": 11, "seek": 4900, "start": 70.6, "end": 77.64, "text": " secret, and their greatest fear was that somebody would discover it. They didn't think", "tokens": [51444, 4054, 11, 293, 641, 6636, 4240, 390, 300, 2618, 576, 4411, 309, 13, 814, 994, 380, 519, 51796], "temperature": 0.0, "avg_logprob": -0.19970321655273438, "compression_ratio": 1.627906976744186, "no_speech_prob": 0.015815474092960358}, {"id": 12, "seek": 7764, "start": 77.64, "end": 87.08, "text": " they could bear it if anyone found out about the potters. Mrs. Potter was Mrs. Dersley's sister,", "tokens": [50364, 436, 727, 6155, 309, 498, 2878, 1352, 484, 466, 264, 1847, 1559, 13, 9814, 13, 18115, 390, 9814, 13, 413, 433, 3420, 311, 4892, 11, 50836], "temperature": 0.0, "avg_logprob": -0.18388986115408415, "compression_ratio": 1.643835616438356, "no_speech_prob": 0.0027422523126006126}, {"id": 13, "seek": 7764, "start": 87.08, "end": 91.88, "text": " but they hadn't met for several years. In fact, Mrs. Dersley pretended she didn't have", "tokens": [50836, 457, 436, 8782, 380, 1131, 337, 2940, 924, 13, 682, 1186, 11, 9814, 13, 413, 433, 3420, 45056, 750, 994, 380, 362, 51076], "temperature": 0.0, "avg_logprob": -0.18388986115408415, "compression_ratio": 1.643835616438356, "no_speech_prob": 0.0027422523126006126}, {"id": 14, "seek": 7764, "start": 91.88, "end": 98.76, "text": " a sister, because her sister and her good-for-nothing husband were as undersleyish as it", "tokens": [51076, 257, 4892, 11, 570, 720, 4892, 293, 720, 665, 12, 2994, 12, 49518, 5213, 645, 382, 674, 433, 3420, 742, 382, 309, 51420], "temperature": 0.0, "avg_logprob": -0.18388986115408415, "compression_ratio": 1.643835616438356, "no_speech_prob": 0.0027422523126006126}, {"id": 15, "seek": 7764, "start": 98.76, "end": 104.84, "text": " was possible to be. The Dersley's shudder to think what the neighbours would say if the", "tokens": [51420, 390, 1944, 281, 312, 13, 440, 413, 433, 3420, 311, 402, 532, 1068, 281, 519, 437, 264, 35548, 576, 584, 498, 264, 51724], "temperature": 0.0, "avg_logprob": -0.18388986115408415, "compression_ratio": 1.643835616438356, "no_speech_prob": 0.0027422523126006126}, {"id": 16, "seek": 10484, "start": 104.84, "end": 111.72, "text": " potters arrived in the street. The Dersley's knew that the potters had a small son too, but", "tokens": [50364, 1847, 1559, 6678, 294, 264, 4838, 13, 440, 413, 433, 3420, 311, 2586, 300, 264, 1847, 1559, 632, 257, 1359, 1872, 886, 11, 457, 50708], "temperature": 0.0, "avg_logprob": -0.15314096273835173, "compression_ratio": 1.5948275862068966, "no_speech_prob": 0.0031505038496106863}, {"id": 17, "seek": 10484, "start": 111.72, "end": 118.44, "text": " they had never seen him. This boy was another good reason for keeping the potters away. They", "tokens": [50708, 436, 632, 1128, 1612, 796, 13, 639, 3237, 390, 1071, 665, 1778, 337, 5145, 264, 1847, 1559, 1314, 13, 814, 51044], "temperature": 0.0, "avg_logprob": -0.15314096273835173, "compression_ratio": 1.5948275862068966, "no_speech_prob": 0.0031505038496106863}, {"id": 18, "seek": 10484, "start": 118.44, "end": 126.04, "text": " didn't want Dudley, mixing with a child like that. When Mr. and Mrs. Dersley woke up on the", "tokens": [51044, 994, 380, 528, 42622, 3420, 11, 11983, 365, 257, 1440, 411, 300, 13, 1133, 2221, 13, 293, 9814, 13, 413, 433, 3420, 12852, 493, 322, 264, 51424], "temperature": 0.0, "avg_logprob": -0.15314096273835173, "compression_ratio": 1.5948275862068966, "no_speech_prob": 0.0031505038496106863}, {"id": 19, "seek": 10484, "start": 126.04, "end": 132.92000000000002, "text": " dull grey Tuesday our story starts, there was nothing about the cloudy sky outside to suggest", "tokens": [51424, 23471, 16578, 10017, 527, 1657, 3719, 11, 456, 390, 1825, 466, 264, 33060, 5443, 2380, 281, 3402, 51768], "temperature": 0.0, "avg_logprob": -0.15314096273835173, "compression_ratio": 1.5948275862068966, "no_speech_prob": 0.0031505038496106863}, {"id": 20, "seek": 13292, "start": 132.92, "end": 139.64, "text": " that strange and mysterious things would soon be happening all over the country. Mr. Dersley", "tokens": [50364, 300, 5861, 293, 13831, 721, 576, 2321, 312, 2737, 439, 670, 264, 1941, 13, 2221, 13, 413, 433, 3420, 50700], "temperature": 0.0, "avg_logprob": -0.152801215046584, "compression_ratio": 1.5869565217391304, "no_speech_prob": 0.0023723046761006117}, {"id": 21, "seek": 13292, "start": 139.64, "end": 147.07999999999998, "text": " hummed, as he picked out his most boring tie for work, and Mrs. Dersley gossiped away happily,", "tokens": [50700, 1484, 1912, 11, 382, 415, 6183, 484, 702, 881, 9989, 7582, 337, 589, 11, 293, 9814, 13, 413, 433, 3420, 31788, 292, 1314, 19909, 11, 51072], "temperature": 0.0, "avg_logprob": -0.152801215046584, "compression_ratio": 1.5869565217391304, "no_speech_prob": 0.0023723046761006117}, {"id": 22, "seek": 13292, "start": 147.07999999999998, "end": 154.2, "text": " as she wrestled a screaming Dudley into his high chair. None of them noticed a large,", "tokens": [51072, 382, 750, 12591, 1493, 257, 12636, 42622, 3420, 666, 702, 1090, 6090, 13, 14492, 295, 552, 5694, 257, 2416, 11, 51428], "temperature": 0.0, "avg_logprob": -0.152801215046584, "compression_ratio": 1.5869565217391304, "no_speech_prob": 0.0023723046761006117}, {"id": 23, "seek": 13292, "start": 154.2, "end": 162.44, "text": " tawny owl flutter past the window. At half past eight, Mr. Dersley picked up his briefcase,", "tokens": [51428, 1846, 43682, 34488, 932, 9947, 1791, 264, 4910, 13, 1711, 1922, 1791, 3180, 11, 2221, 13, 413, 433, 3420, 6183, 493, 702, 5353, 9765, 11, 51840], "temperature": 0.0, "avg_logprob": -0.152801215046584, "compression_ratio": 1.5869565217391304, "no_speech_prob": 0.0023723046761006117}, {"id": 24, "seek": 16244, "start": 162.44, "end": 168.04, "text": " picked Mrs. Dersley on the cheek, and tried to kiss Dudley goodbye, but missed, because Dudley", "tokens": [50364, 6183, 9814, 13, 413, 433, 3420, 322, 264, 12839, 11, 293, 3031, 281, 7704, 42622, 3420, 12084, 11, 457, 6721, 11, 570, 42622, 3420, 50644], "temperature": 0.0, "avg_logprob": -0.2085111968371333, "compression_ratio": 1.5757575757575757, "no_speech_prob": 0.000562984321732074}, {"id": 25, "seek": 16244, "start": 168.04, "end": 174.12, "text": " was now having a tantrum and throwing his cereal at the walls. A little tight,", "tokens": [50644, 390, 586, 1419, 257, 12095, 6247, 293, 10238, 702, 26199, 412, 264, 7920, 13, 316, 707, 4524, 11, 50948], "temperature": 0.0, "avg_logprob": -0.2085111968371333, "compression_ratio": 1.5757575757575757, "no_speech_prob": 0.000562984321732074}, {"id": 26, "seek": 16244, "start": 174.12, "end": 180.52, "text": " chockled Mr. Dersley as he left the house. He got into his car and backed out of number four's drive.", "tokens": [50948, 417, 1560, 1493, 2221, 13, 413, 433, 3420, 382, 415, 1411, 264, 1782, 13, 634, 658, 666, 702, 1032, 293, 20391, 484, 295, 1230, 1451, 311, 3332, 13, 51268], "temperature": 0.0, "avg_logprob": -0.2085111968371333, "compression_ratio": 1.5757575757575757, "no_speech_prob": 0.000562984321732074}, {"id": 27, "seek": 16244, "start": 182.28, "end": 187.64, "text": " It was on the corner of the street that he noticed the first sign of something peculiar,", "tokens": [51356, 467, 390, 322, 264, 4538, 295, 264, 4838, 300, 415, 5694, 264, 700, 1465, 295, 746, 27149, 11, 51624], "temperature": 0.0, "avg_logprob": -0.2085111968371333, "compression_ratio": 1.5757575757575757, "no_speech_prob": 0.000562984321732074}, {"id": 28, "seek": 18764, "start": 188.51999999999998, "end": 194.6, "text": " a cat reading a map. For a second, Mr. Dersley didn't realise what he had seen,", "tokens": [50408, 257, 3857, 3760, 257, 4471, 13, 1171, 257, 1150, 11, 2221, 13, 413, 433, 3420, 994, 380, 18809, 437, 415, 632, 1612, 11, 50712], "temperature": 0.0, "avg_logprob": -0.11964873512192528, "compression_ratio": 1.5777777777777777, "no_speech_prob": 0.0020645656622946262}, {"id": 29, "seek": 18764, "start": 194.6, "end": 200.6, "text": " then he jerked his head around to look again. There was a tabby cat standing on the corner of", "tokens": [50712, 550, 415, 25197, 292, 702, 1378, 926, 281, 574, 797, 13, 821, 390, 257, 4421, 2322, 3857, 4877, 322, 264, 4538, 295, 51012], "temperature": 0.0, "avg_logprob": -0.11964873512192528, "compression_ratio": 1.5777777777777777, "no_speech_prob": 0.0020645656622946262}, {"id": 30, "seek": 18764, "start": 200.6, "end": 207.39999999999998, "text": " private drive, but there wasn't a map inside. What could he have been thinking of? It must have", "tokens": [51012, 4551, 3332, 11, 457, 456, 2067, 380, 257, 4471, 1854, 13, 708, 727, 415, 362, 668, 1953, 295, 30, 467, 1633, 362, 51352], "temperature": 0.0, "avg_logprob": -0.11964873512192528, "compression_ratio": 1.5777777777777777, "no_speech_prob": 0.0020645656622946262}, {"id": 31, "seek": 18764, "start": 207.39999999999998, "end": 214.04, "text": " been a trick of the light. Mr. Dersley blinked and stared at the cat. It stared back.", "tokens": [51352, 668, 257, 4282, 295, 264, 1442, 13, 2221, 13, 413, 433, 3420, 24667, 292, 293, 44738, 412, 264, 3857, 13, 467, 44738, 646, 13, 51684], "temperature": 0.0, "avg_logprob": -0.11964873512192528, "compression_ratio": 1.5777777777777777, "no_speech_prob": 0.0020645656622946262}, {"id": 32, "seek": 21404, "start": 215.0, "end": 220.04, "text": " As Mr. Dersley drove around the corner and up the road, he watched the cat in his mirror.", "tokens": [50412, 1018, 2221, 13, 413, 433, 3420, 13226, 926, 264, 4538, 293, 493, 264, 3060, 11, 415, 6337, 264, 3857, 294, 702, 8013, 13, 50664], "temperature": 0.0, "avg_logprob": -0.12484956741333007, "compression_ratio": 1.6327433628318584, "no_speech_prob": 0.001748274895362556}, {"id": 33, "seek": 21404, "start": 220.6, "end": 227.79999999999998, "text": " It was now reading the sign that said, privy drive. No, looking at the sign. Cats couldn't read", "tokens": [50692, 467, 390, 586, 3760, 264, 1465, 300, 848, 11, 2915, 88, 3332, 13, 883, 11, 1237, 412, 264, 1465, 13, 40902, 2809, 380, 1401, 51052], "temperature": 0.0, "avg_logprob": -0.12484956741333007, "compression_ratio": 1.6327433628318584, "no_speech_prob": 0.001748274895362556}, {"id": 34, "seek": 21404, "start": 227.79999999999998, "end": 234.35999999999999, "text": " maps or signs. Mr. Dersley gave himself a little shake and put the cat out of his mind.", "tokens": [51052, 11317, 420, 7880, 13, 2221, 13, 413, 433, 3420, 2729, 3647, 257, 707, 10283, 293, 829, 264, 3857, 484, 295, 702, 1575, 13, 51380], "temperature": 0.0, "avg_logprob": -0.12484956741333007, "compression_ratio": 1.6327433628318584, "no_speech_prob": 0.001748274895362556}, {"id": 35, "seek": 21404, "start": 235.64, "end": 240.76, "text": " As he drove towards town, he thought of nothing except a large order of drills he was hoping to", "tokens": [51444, 1018, 415, 13226, 3030, 3954, 11, 415, 1194, 295, 1825, 3993, 257, 2416, 1668, 295, 36126, 415, 390, 7159, 281, 51700], "temperature": 0.0, "avg_logprob": -0.12484956741333007, "compression_ratio": 1.6327433628318584, "no_speech_prob": 0.001748274895362556}, {"id": 36, "seek": 24076, "start": 240.76, "end": 247.88, "text": " get that day. But on the edge of town drills were driven out of his mind by something else.", "tokens": [50364, 483, 300, 786, 13, 583, 322, 264, 4691, 295, 3954, 36126, 645, 9555, 484, 295, 702, 1575, 538, 746, 1646, 13, 50720], "temperature": 0.0, "avg_logprob": -0.10793026950624254, "compression_ratio": 1.4946808510638299, "no_speech_prob": 0.0018666101386770606}, {"id": 37, "seek": 24076, "start": 249.07999999999998, "end": 254.76, "text": " As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a", "tokens": [50780, 1018, 415, 3227, 294, 264, 7713, 2446, 6419, 7872, 11, 415, 2809, 380, 854, 21814, 300, 456, 6576, 281, 312, 257, 51064], "temperature": 0.0, "avg_logprob": -0.10793026950624254, "compression_ratio": 1.4946808510638299, "no_speech_prob": 0.0018666101386770606}, {"id": 38, "seek": 24076, "start": 254.76, "end": 263.4, "text": " lot of strangely dressed people about. People in cloaks. Mr. Dersley couldn't bear people who", "tokens": [51064, 688, 295, 39851, 12386, 561, 466, 13, 3432, 294, 20123, 5461, 13, 2221, 13, 413, 433, 3420, 2809, 380, 6155, 561, 567, 51496], "temperature": 0.0, "avg_logprob": -0.10793026950624254, "compression_ratio": 1.4946808510638299, "no_speech_prob": 0.0018666101386770606}, {"id": 39, "seek": 26340, "start": 263.47999999999996, "end": 270.76, "text": " dressed in funny clothes. The get-ups you saw on young people. He suppose this was some stupid new", "tokens": [50368, 12386, 294, 4074, 5534, 13, 440, 483, 12, 7528, 291, 1866, 322, 2037, 561, 13, 634, 7297, 341, 390, 512, 6631, 777, 50732], "temperature": 0.0, "avg_logprob": -0.12093612125941686, "compression_ratio": 1.5982905982905984, "no_speech_prob": 0.015108278952538967}, {"id": 40, "seek": 26340, "start": 270.76, "end": 276.76, "text": " fashion. He drummed his fingers on the steering wheel and his eyes fell on a huddle of these", "tokens": [50732, 6700, 13, 634, 10206, 1912, 702, 7350, 322, 264, 14823, 5589, 293, 702, 2575, 5696, 322, 257, 276, 532, 2285, 295, 613, 51032], "temperature": 0.0, "avg_logprob": -0.12093612125941686, "compression_ratio": 1.5982905982905984, "no_speech_prob": 0.015108278952538967}, {"id": 41, "seek": 26340, "start": 276.76, "end": 283.56, "text": " weirdos standing quite close by. They were whispering excitedly together. Mr. Dersley was", "tokens": [51032, 3657, 329, 4877, 1596, 1998, 538, 13, 814, 645, 42445, 2919, 356, 1214, 13, 2221, 13, 413, 433, 3420, 390, 51372], "temperature": 0.0, "avg_logprob": -0.12093612125941686, "compression_ratio": 1.5982905982905984, "no_speech_prob": 0.015108278952538967}, {"id": 42, "seek": 26340, "start": 283.56, "end": 289.23999999999995, "text": " enraged to see that a couple of them weren't young at all. Why that man had to be older than", "tokens": [51372, 465, 424, 3004, 281, 536, 300, 257, 1916, 295, 552, 4999, 380, 2037, 412, 439, 13, 1545, 300, 587, 632, 281, 312, 4906, 813, 51656], "temperature": 0.0, "avg_logprob": -0.12093612125941686, "compression_ratio": 1.5982905982905984, "no_speech_prob": 0.015108278952538967}, {"id": 43, "seek": 28924, "start": 289.32, "end": 297.48, "text": " he was and wearing an emerald green cloak. The nerve of him. But then it struck Mr. Dersley that this", "tokens": [50368, 415, 390, 293, 4769, 364, 846, 24250, 3092, 45004, 13, 440, 16355, 295, 796, 13, 583, 550, 309, 13159, 2221, 13, 413, 433, 3420, 300, 341, 50776], "temperature": 0.0, "avg_logprob": -0.24329355600717906, "compression_ratio": 1.2, "no_speech_prob": 0.0038035670295357704}, {"id": 44, "seek": 28924, "start": 297.48, "end": 299.72, "text": " was probably some silly stunt.", "tokens": [50776, 390, 1391, 512, 11774, 33391, 13, 50888], "temperature": 0.0, "avg_logprob": -0.24329355600717906, "compression_ratio": 1.2, "no_speech_prob": 0.0038035670295357704}], "language": "en"}
-
+const DATA = {
+    'en' : ["sound/demo_cut.mp3", "json/hp.b1.c4wwc.json"],
+    'ru': ["sound/demo_ru.mp3", "json/hp.ru.ch7.json"],
+    'de': ["sound/hp.de.b1.ch6.mp3", "json/hp.de.b1.ch6.json"],
+}
 
 function highlight(segmentId, doIt) {
     let $item = $('span[data-id="' + segmentId + '"]')
+
     if ($item.length === 0) {
         return
     }
@@ -13,84 +17,133 @@ function highlight(segmentId, doIt) {
     }
 }
 
-$(window).on('load', () => {
-    let $audio = $("#audio")
-    let $text = $("#text")
+class MarkingMan {
+    
+    constructor() {
+        this.$audio = $("#audio")
+        this.$text = $("#text")
+        this.$select = $("select")
+        this.intervalId = null
+        this.previousSegmentId = null
+        this.src = null
 
-    let intervalId = null
-    let previousSegmentId = null
-
-    for (let segment of SRC.segments) {
-        let item = makeTextItem(segment)
-        $text.append(item)
+        this.setup()
     }
 
-    function makeTextItem(segment) {
+    setup() {
+        this.$audio.on('pause', () => {
+            if (this.intervalId != null) {
+                clearInterval(this.intervalId)
+                this.intervalId = null
+            }
+        })
+        this.$audio.on('seeked', () => {
+            this.checkStuff()
+        })
+        this.$audio.on('play', () => {
+            this.checkStuff()
+            this.intervalId = setInterval(() => {this.checkStuff()}, 300)
+        })
+
+        this.$select.on('input', async () => {
+            let id = $('select').find('option:selected').attr('id')
+            let selected = DATA[id]
+            await this.load(selected[0], selected[1])
+        })
+    }
+    
+    async load(soundSrc, markingsSrc) {
+        this.$audio[0].src = soundSrc
+        this.src = this.enumerateJson(await (await fetch(markingsSrc)).json())
+
+        clearInterval(this.intervalId)
+        this.intervalId = null
+        this.previousSegmentId = null
+
+        this.$text.html("")
+
+        for (let segment of this.src.segments) {
+            for (let word of segment.words) {
+                let item = this.makeTextItem(word)
+                this.$text.append(item)
+            }
+        }
+    }
+
+
+    makeTextItem(segment) {
         let id = segment.id
         let $item = $("<span>")
         $item.attr('class', "word")
         $item.attr('data-id', id)
-        $item.text(segment.text)
+        $item.text(segment.word)
         $item.on('click', () => {
-            navigateTo(segment.id)
+            this.navigateTo(segment.id)
         })
 
         return $item
     }
 
+    enumerateJson(json) {
+        let i = 0
+        for (let segment of json.segments) {
+            for (let word of segment.words) {
+                word.id = i
+                i++
+            }
+        }
+        return json
+    }
 
 
-    function checkStuff() {
+    checkStuff() {
         // go thru the list of segments, find the one currently active
-//        debugger
-        let currentTime = $audio[0].currentTime
+        let currentTime = this.$audio[0].currentTime
 
         let currSegment = null
-        for (let segment of SRC.segments) {
-            if (currentTime > segment.start && currentTime < segment.end) {
-                currSegment = segment
-                break
-            }
+        for (let segment of this.src.segments) {
+            for (let word of segment.words)
+                if (currentTime > word.start && currentTime < word.end) {
+                    currSegment = word
+                    // console.info("got segment: " + currSegment)
+                    break
+                }
         }
         if (currSegment == null) {
             return
         }
         // mark it
-        if (previousSegmentId != null) {
-            highlight(previousSegmentId, false)
+        if (this.previousSegmentId != null) {
+            highlight(this.previousSegmentId, false)
         }
         highlight(currSegment.id, true)
-        previousSegmentId = currSegment.id
+        this.previousSegmentId = currSegment.id
     }
 
 
-
-    function navigateTo(segmentId) {
+    navigateTo(segmentId) {
         let currSegment = null
-        for (let segment of SRC.segments) {
-            if (segment.id === segmentId) {
-                currSegment = segment
-                break
-            }
+        for (let segment of this.src.segments) {
+            for (let word of segment.words)
+                if (word.id === segmentId) {
+                    currSegment = word
+                    break
+                }
         }
         if (currSegment == null) {
             alert("RIP: no segment of id " + segmentId)
         }
-        $audio[0].currentTime = currSegment.start + 0.05
-        $audio[0].play()
+
+        this.$audio[0].currentTime = currSegment.start
+        this.$audio[0].play()
     }
 
-    $audio.on('pause', () => {
-        if (intervalId != null) {
-            clearInterval(intervalId)
-            intervalId = null
-        }
-    })
-    $audio.on('seeked', () => {
-        checkStuff()
-    })
-    $audio.on('play', () => {
-        checkStuff()
-        intervalId = setInterval(checkStuff, 750)
-    })
+}
+
+$(window).on('load', async () => {
+   let markingMan = new MarkingMan()
+
+    await markingMan.load("sound/demo_cut.mp3", "json/hp.b1.c4wwc.json")
+
+
 })

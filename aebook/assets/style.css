@@ -3,6 +3,17 @@ body {
     padding: 30px 0;
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #222;
+        color: white;
+    }
+    span.highlighted {
+        color: red;
+    }
+}
+
+
 
 #text {
     overflow-y: scroll;

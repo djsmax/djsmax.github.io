@@ -1,0 +1,6681 @@
+{
+  "text": " Chapter 5 Diagon Alley Harry woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight. It was a dream, he told himself, firmly. I dreamed a giant called Hagrid came to tell me I was going to a school for wizards. When I opened my eyes I would be at home in my cupboard. There was suddenly a loud tapping noise. And there's Aunt Petunia knocking on the door. Harry thought, his heart sinking. But he still didn't open his eyes. It had been such a good dream. Tap, tap, tap! All right, Harry mumbled. I'm getting up. He sat up, and Hagrid's heavy coat fell off him. The hut was full of sunlight. The storm was over. Hagrid himself was asleep on the collapsed sofa, and there was an owl wrapping its claw on the window. A newspaper held in its beak. Harry scrambled to his feet. So happy he felt as though a large balloon was swelling inside him. He went straight to the window and jerked it open. The owl swooped in and dropped the newspaper on top of Hagrid, who didn't wake up. The owl then fluttered onto the floor and began to attack Hagrid's coat. Don't do that! Harry tried to wave the owl out of the way, but it snapped its beak fiercely at him and carried on, savaging the coat. Hagrid, said Harry loudly, there's an owl! Pay him, Hagrid grunted into the sofa. What? He wants paying for delivering the paper. Look in the pockets! Hagrid's coat seemed to be made of nothing but pockets. Bunches of keys, slug pellets, balls of string, mint humbugs, tea bags. Finally, Harry pulled out a handful of strange-looking coins. Give him five knuts, said Hagrid sleepily. Knuts? The little bronze ones. Harry counted out five little bronze coins, and the owl held out its leg so he could put the money into a small leather pouch tied to it. Then it flew off through the open window. Hagrid yawned loudly, sat up and stretched. Miss me off, Harry, lots to do to-day. Gotta get up to London and boil your stuff for school. Harry was turning over the wizard coins and looking at them. He had just thought of something which made him feel as though the happy balloon inside him had got a puncture. Um, Hagrid? Eh? Said Hagrid, who was pulling on his huge boots. I haven't got any money, and you heard Uncle Vernon last night. He won't pay for me to go and learn magic. Don't worry about that, said Hagrid, standing up and scratching his head. Do you think your parents didn't leave you anything? But if their house was destroyed, they didn't keep their gold in the house, boy. Nah, first stop for us is Gringots, wizard's bank. Have a sausage, they're not bad gold, and I wouldn't say no to a bit of your birthday cake neither. Wizards have banks. Just the one, Gringots, run by Goblins. Harry dropped the bit of sausage he was holding. Goblins? Yeah, so you'd be mad to try and rob it, I'll tell you that. Never a mess with Goblins, Harry. Gringots is the safest place in the world for anything you want to keep safe. Set maybe Hogwarts. As a matter of fact, I gotta visit Gringots anyway, for Dumbledore, Hogwarts business. Hagrid drew himself up proudly. He usually gets me to do important stuff for him. Fetching you, getting things from Gringots, knows he can trust me, see? Got everything? Come on then. Harry followed Hagrid out onto the rock. The sky was quite clear now, and the sea gleamed in the sunlight. The boat Uncle Vernon had hired was still there, with a lot of water in the bottom after the storm. How did you get here? Harry asked, looking around for another boat. Flu? said Hagrid. Flu? Yeah, but we'll go back in this. Not supposed to use magic. Now I've got you. They settled down in the boat. Harry still staring at Hagrid, trying to imagine him flying. Seems a shame to roll, though, said Hagrid, giving Harry another of his sideways looks. If I was to speed things up a bit, would you mind not mention it at Hogwarts? Of course not, said Harry, eager to see more magic. Hagrid pulled out the pink umbrella again, tapped it twice on the side of the boat, and they sped off towards land. Why would you be mad to try and rob Gringots? Harry asked.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.06,
+      "text": " Chapter 5 Diagon Alley",
+      "tokens": [
+        50364,
+        18874,
+        1025,
+        8789,
+        6709,
+        1057,
+        2030,
+        50676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1740878540792583,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.010064304806292057,
+      "words": [
+        {
+          "word": " Chapter",
+          "start": 0.0,
+          "end": 0.86,
+          "probability": 0.12173666805028915
+        },
+        {
+          "word": " 5",
+          "start": 0.86,
+          "end": 1.52,
+          "probability": 0.7127004265785217
+        },
+        {
+          "word": " Diagon",
+          "start": 1.52,
+          "end": 3.52,
+          "probability": 0.9149845838546753
+        },
+        {
+          "word": " Alley",
+          "start": 3.52,
+          "end": 4.06,
+          "probability": 0.7947289347648621
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.820000000000003,
+      "end": 11.32,
+      "text": " Harry woke early the next morning. Although he could tell it was daylight, he kept his",
+      "tokens": [
+        50676,
+        9378,
+        12852,
+        2440,
+        264,
+        958,
+        2446,
+        13,
+        5780,
+        415,
+        727,
+        980,
+        309,
+        390,
+        29964,
+        11,
+        415,
+        4305,
+        702,
+        50934
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1740878540792583,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.010064304806292057,
+      "words": [
+        {
+          "word": " Harry",
+          "start": 5.820000000000003,
+          "end": 6.380000000000002,
+          "probability": 0.9468769431114197
+        },
+        {
+          "word": " woke",
+          "start": 6.380000000000002,
+          "end": 6.94,
+          "probability": 0.978488564491272
+        },
+        {
+          "word": " early",
+          "start": 6.94,
+          "end": 7.4,
+          "probability": 0.9802733659744263
+        },
+        {
+          "word": " the",
+          "start": 7.4,
+          "end": 7.62,
+          "probability": 0.987261950969696
+        },
+        {
+          "word": " next",
+          "start": 7.62,
+          "end": 7.84,
+          "probability": 0.996604323387146
+        },
+        {
+          "word": " morning.",
+          "start": 7.84,
+          "end": 8.18,
+          "probability": 0.9968047142028809
+        },
+        {
+          "word": " Although",
+          "start": 8.88,
+          "end": 9.16,
+          "probability": 0.9908773303031921
+        },
+        {
+          "word": " he",
+          "start": 9.16,
+          "end": 9.36,
+          "probability": 0.9833570718765259
+        },
+        {
+          "word": " could",
+          "start": 9.36,
+          "end": 9.5,
+          "probability": 0.9955748319625854
+        },
+        {
+          "word": " tell",
+          "start": 9.5,
+          "end": 9.7,
+          "probability": 0.9977502226829529
+        },
+        {
+          "word": " it",
+          "start": 9.7,
+          "end": 9.82,
+          "probability": 0.773256778717041
+        },
+        {
+          "word": " was",
+          "start": 9.82,
+          "end": 9.94,
+          "probability": 0.9988762736320496
+        },
+        {
+          "word": " daylight,",
+          "start": 9.94,
+          "end": 10.24,
+          "probability": 0.9861522912979126
+        },
+        {
+          "word": " he",
+          "start": 10.76,
+          "end": 10.88,
+          "probability": 0.9971930384635925
+        },
+        {
+          "word": " kept",
+          "start": 10.88,
+          "end": 11.14,
+          "probability": 0.9955992698669434
+        },
+        {
+          "word": " his",
+          "start": 11.14,
+          "end": 11.32,
+          "probability": 0.9977666139602661
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.32,
+      "end": 20.0,
+      "text": " eyes shut tight. It was a dream, he told himself, firmly. I dreamed a giant called Hagrid came",
+      "tokens": [
+        50934,
+        2575,
+        5309,
+        4524,
+        13,
+        467,
+        390,
+        257,
+        3055,
+        11,
+        415,
+        1907,
+        3647,
+        11,
+        20031,
+        13,
+        286,
+        26726,
+        257,
+        7410,
+        1219,
+        34758,
+        8558,
+        1361,
+        51366
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1740878540792583,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.010064304806292057,
+      "words": [
+        {
+          "word": " eyes",
+          "start": 11.32,
+          "end": 11.72,
+          "probability": 0.998999297618866
+        },
+        {
+          "word": " shut",
+          "start": 11.72,
+          "end": 12.24,
+          "probability": 0.9965465664863586
+        },
+        {
+          "word": " tight.",
+          "start": 12.24,
+          "end": 12.78,
+          "probability": 0.9892276525497437
+        },
+        {
+          "word": " It",
+          "start": 13.64,
+          "end": 14.16,
+          "probability": 0.23265807330608368
+        },
+        {
+          "word": " was",
+          "start": 14.16,
+          "end": 14.36,
+          "probability": 0.9993036985397339
+        },
+        {
+          "word": " a",
+          "start": 14.36,
+          "end": 14.52,
+          "probability": 0.9984092116355896
+        },
+        {
+          "word": " dream,",
+          "start": 14.52,
+          "end": 15.0,
+          "probability": 0.9923580288887024
+        },
+        {
+          "word": " he",
+          "start": 15.52,
+          "end": 15.64,
+          "probability": 0.9959328770637512
+        },
+        {
+          "word": " told",
+          "start": 15.64,
+          "end": 15.86,
+          "probability": 0.9953097701072693
+        },
+        {
+          "word": " himself,",
+          "start": 15.86,
+          "end": 16.38,
+          "probability": 0.9982038736343384
+        },
+        {
+          "word": " firmly.",
+          "start": 16.58,
+          "end": 16.98,
+          "probability": 0.9474419951438904
+        },
+        {
+          "word": " I",
+          "start": 17.6,
+          "end": 17.8,
+          "probability": 0.8228129148483276
+        },
+        {
+          "word": " dreamed",
+          "start": 17.8,
+          "end": 18.3,
+          "probability": 0.9071890115737915
+        },
+        {
+          "word": " a",
+          "start": 18.3,
+          "end": 18.54,
+          "probability": 0.9843991994857788
+        },
+        {
+          "word": " giant",
+          "start": 18.54,
+          "end": 18.82,
+          "probability": 0.9872063398361206
+        },
+        {
+          "word": " called",
+          "start": 18.82,
+          "end": 19.14,
+          "probability": 0.9796493649482727
+        },
+        {
+          "word": " Hagrid",
+          "start": 19.14,
+          "end": 19.66,
+          "probability": 0.9925743341445923
+        },
+        {
+          "word": " came",
+          "start": 19.66,
+          "end": 20.0,
+          "probability": 0.9571250677108765
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.0,
+      "end": 26.42,
+      "text": " to tell me I was going to a school for wizards. When I opened my eyes I would be at home in",
+      "tokens": [
+        51366,
+        281,
+        980,
+        385,
+        286,
+        390,
+        516,
+        281,
+        257,
+        1395,
+        337,
+        40808,
+        2287,
+        13,
+        1133,
+        286,
+        5625,
+        452,
+        2575,
+        286,
+        576,
+        312,
+        412,
+        1280,
+        294,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1740878540792583,
+      "compression_ratio": 1.48,
+      "no_speech_prob": 0.010064304806292057,
+      "words": [
+        {
+          "word": " to",
+          "start": 20.0,
+          "end": 20.2,
+          "probability": 0.9980497360229492
+        },
+        {
+          "word": " tell",
+          "start": 20.2,
+          "end": 20.42,
+          "probability": 0.997333288192749
+        },
+        {
+          "word": " me",
+          "start": 20.42,
+          "end": 20.56,
+          "probability": 0.9984782338142395
+        },
+        {
+          "word": " I",
+          "start": 20.56,
+          "end": 20.68,
+          "probability": 0.9752354025840759
+        },
+        {
+          "word": " was",
+          "start": 20.68,
+          "end": 20.78,
+          "probability": 0.9990646243095398
+        },
+        {
+          "word": " going",
+          "start": 20.78,
+          "end": 20.98,
+          "probability": 0.9986489415168762
+        },
+        {
+          "word": " to",
+          "start": 20.98,
+          "end": 21.16,
+          "probability": 0.995327353477478
+        },
+        {
+          "word": " a",
+          "start": 21.16,
+          "end": 21.28,
+          "probability": 0.9888522624969482
+        },
+        {
+          "word": " school",
+          "start": 21.28,
+          "end": 21.6,
+          "probability": 0.997435986995697
+        },
+        {
+          "word": " for",
+          "start": 21.6,
+          "end": 21.86,
+          "probability": 0.9943880438804626
+        },
+        {
+          "word": " wizards.",
+          "start": 21.86,
+          "end": 22.3,
+          "probability": 0.9955628216266632
+        },
+        {
+          "word": " When",
+          "start": 23.48,
+          "end": 24.04,
+          "probability": 0.9643751978874207
+        },
+        {
+          "word": " I",
+          "start": 24.04,
+          "end": 24.2,
+          "probability": 0.9984242916107178
+        },
+        {
+          "word": " opened",
+          "start": 24.2,
+          "end": 24.44,
+          "probability": 0.9777993559837341
+        },
+        {
+          "word": " my",
+          "start": 24.44,
+          "end": 24.66,
+          "probability": 0.998485267162323
+        },
+        {
+          "word": " eyes",
+          "start": 24.66,
+          "end": 25.08,
+          "probability": 0.9994694590568542
+        },
+        {
+          "word": " I",
+          "start": 25.08,
+          "end": 25.72,
+          "probability": 0.4601669907569885
+        },
+        {
+          "word": " would",
+          "start": 25.72,
+          "end": 25.8,
+          "probability": 0.4392542541027069
+        },
+        {
+          "word": " be",
+          "start": 25.8,
+          "end": 25.88,
+          "probability": 0.9966638684272766
+        },
+        {
+          "word": " at",
+          "start": 25.88,
+          "end": 26.0,
+          "probability": 0.9974310994148254
+        },
+        {
+          "word": " home",
+          "start": 26.0,
+          "end": 26.28,
+          "probability": 0.9984484910964966
+        },
+        {
+          "word": " in",
+          "start": 26.28,
+          "end": 26.42,
+          "probability": 0.9852566123008728
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2642,
+      "start": 26.42,
+      "end": 34.6,
+      "text": " my cupboard. There was suddenly a loud tapping noise. And there's Aunt Petunia knocking on",
+      "tokens": [
+        50364,
+        452,
+        47847,
+        13,
+        821,
+        390,
+        5800,
+        257,
+        6588,
+        21444,
+        5658,
+        13,
+        400,
+        456,
+        311,
+        17535,
+        10472,
+        409,
+        654,
+        24085,
+        322,
+        50772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530425616673061,
+      "compression_ratio": 1.435,
+      "no_speech_prob": 0.03821142762899399,
+      "words": [
+        {
+          "word": " my",
+          "start": 26.42,
+          "end": 26.6,
+          "probability": 0.5833588242530823
+        },
+        {
+          "word": " cupboard.",
+          "start": 26.6,
+          "end": 27.08,
+          "probability": 0.9945622086524963
+        },
+        {
+          "word": " There",
+          "start": 28.14,
+          "end": 28.46,
+          "probability": 0.9931018352508545
+        },
+        {
+          "word": " was",
+          "start": 28.46,
+          "end": 28.58,
+          "probability": 0.9934367537498474
+        },
+        {
+          "word": " suddenly",
+          "start": 28.58,
+          "end": 28.92,
+          "probability": 0.982633113861084
+        },
+        {
+          "word": " a",
+          "start": 28.92,
+          "end": 29.12,
+          "probability": 0.9980875849723816
+        },
+        {
+          "word": " loud",
+          "start": 29.12,
+          "end": 29.48,
+          "probability": 0.9988464117050171
+        },
+        {
+          "word": " tapping",
+          "start": 29.48,
+          "end": 29.94,
+          "probability": 0.9714174270629883
+        },
+        {
+          "word": " noise.",
+          "start": 29.94,
+          "end": 30.34,
+          "probability": 0.6088064908981323
+        },
+        {
+          "word": " And",
+          "start": 31.7,
+          "end": 32.46,
+          "probability": 0.14163295924663544
+        },
+        {
+          "word": " there's",
+          "start": 32.46,
+          "end": 32.98,
+          "probability": 0.6606445908546448
+        },
+        {
+          "word": " Aunt",
+          "start": 32.98,
+          "end": 33.14,
+          "probability": 0.9453940391540527
+        },
+        {
+          "word": " Petunia",
+          "start": 33.14,
+          "end": 33.78,
+          "probability": 0.9199314713478088
+        },
+        {
+          "word": " knocking",
+          "start": 33.78,
+          "end": 34.26,
+          "probability": 0.9904904365539551
+        },
+        {
+          "word": " on",
+          "start": 34.26,
+          "end": 34.6,
+          "probability": 0.9932460188865662
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2642,
+      "start": 34.6,
+      "end": 40.94,
+      "text": " the door. Harry thought, his heart sinking. But he still didn't open his eyes. It had",
+      "tokens": [
+        50772,
+        264,
+        2853,
+        13,
+        9378,
+        1194,
+        11,
+        702,
+        1917,
+        28148,
+        13,
+        583,
+        415,
+        920,
+        994,
+        380,
+        1269,
+        702,
+        2575,
+        13,
+        467,
+        632,
+        51090
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530425616673061,
+      "compression_ratio": 1.435,
+      "no_speech_prob": 0.03821142762899399,
+      "words": [
+        {
+          "word": " the",
+          "start": 34.6,
+          "end": 34.74,
+          "probability": 0.9979946613311768
+        },
+        {
+          "word": " door.",
+          "start": 34.74,
+          "end": 35.14,
+          "probability": 0.9997684359550476
+        },
+        {
+          "word": " Harry",
+          "start": 35.74,
+          "end": 35.98,
+          "probability": 0.9859894514083862
+        },
+        {
+          "word": " thought,",
+          "start": 35.98,
+          "end": 36.32,
+          "probability": 0.9974368214607239
+        },
+        {
+          "word": " his",
+          "start": 36.76,
+          "end": 36.88,
+          "probability": 0.9972670078277588
+        },
+        {
+          "word": " heart",
+          "start": 36.88,
+          "end": 37.24,
+          "probability": 0.9994382262229919
+        },
+        {
+          "word": " sinking.",
+          "start": 37.24,
+          "end": 37.9,
+          "probability": 0.9471578001976013
+        },
+        {
+          "word": " But",
+          "start": 38.5,
+          "end": 38.72,
+          "probability": 0.997015118598938
+        },
+        {
+          "word": " he",
+          "start": 38.72,
+          "end": 38.84,
+          "probability": 0.9924665093421936
+        },
+        {
+          "word": " still",
+          "start": 38.84,
+          "end": 39.22,
+          "probability": 0.998521625995636
+        },
+        {
+          "word": " didn't",
+          "start": 39.22,
+          "end": 39.54,
+          "probability": 0.9903966188430786
+        },
+        {
+          "word": " open",
+          "start": 39.54,
+          "end": 39.8,
+          "probability": 0.9980706572532654
+        },
+        {
+          "word": " his",
+          "start": 39.8,
+          "end": 40.02,
+          "probability": 0.9985085129737854
+        },
+        {
+          "word": " eyes.",
+          "start": 40.02,
+          "end": 40.34,
+          "probability": 0.9991292357444763
+        },
+        {
+          "word": " It",
+          "start": 40.72,
+          "end": 40.84,
+          "probability": 0.9971779584884644
+        },
+        {
+          "word": " had",
+          "start": 40.84,
+          "end": 40.94,
+          "probability": 0.9880052208900452
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2642,
+      "start": 40.94,
+      "end": 43.0,
+      "text": " been such a good dream.",
+      "tokens": [
+        51090,
+        668,
+        1270,
+        257,
+        665,
+        3055,
+        13,
+        51232
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530425616673061,
+      "compression_ratio": 1.435,
+      "no_speech_prob": 0.03821142762899399,
+      "words": [
+        {
+          "word": " been",
+          "start": 40.94,
+          "end": 41.1,
+          "probability": 0.9984633922576904
+        },
+        {
+          "word": " such",
+          "start": 41.1,
+          "end": 41.94,
+          "probability": 0.9864212274551392
+        },
+        {
+          "word": " a",
+          "start": 41.94,
+          "end": 42.16,
+          "probability": 0.9986907839775085
+        },
+        {
+          "word": " good",
+          "start": 42.16,
+          "end": 42.58,
+          "probability": 0.9955451488494873
+        },
+        {
+          "word": " dream.",
+          "start": 42.58,
+          "end": 43.0,
+          "probability": 0.9976987242698669
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2642,
+      "start": 43.96,
+      "end": 53.92,
+      "text": " Tap, tap, tap! All right, Harry mumbled. I'm getting up. He sat up, and Hagrid's heavy",
+      "tokens": [
+        51232,
+        13445,
+        11,
+        5119,
+        11,
+        5119,
+        0,
+        1057,
+        558,
+        11,
+        9378,
+        275,
+        19928,
+        13,
+        286,
+        478,
+        1242,
+        493,
+        13,
+        634,
+        3227,
+        493,
+        11,
+        293,
+        34758,
+        8558,
+        311,
+        4676,
+        51740
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2530425616673061,
+      "compression_ratio": 1.435,
+      "no_speech_prob": 0.03821142762899399,
+      "words": [
+        {
+          "word": " Tap,",
+          "start": 43.96,
+          "end": 44.42,
+          "probability": 0.311967134475708
+        },
+        {
+          "word": " tap,",
+          "start": 45.04,
+          "end": 45.42,
+          "probability": 0.9936010241508484
+        },
+        {
+          "word": " tap!",
+          "start": 45.7,
+          "end": 45.92,
+          "probability": 0.9981697797775269
+        },
+        {
+          "word": " All",
+          "start": 46.98,
+          "end": 47.36,
+          "probability": 0.5810441970825195
+        },
+        {
+          "word": " right,",
+          "start": 47.36,
+          "end": 47.66,
+          "probability": 0.9989118576049805
+        },
+        {
+          "word": " Harry",
+          "start": 48.08,
+          "end": 48.32,
+          "probability": 0.9949665665626526
+        },
+        {
+          "word": " mumbled.",
+          "start": 48.32,
+          "end": 48.7,
+          "probability": 0.9396304488182068
+        },
+        {
+          "word": " I'm",
+          "start": 49.2,
+          "end": 49.34,
+          "probability": 0.9718173146247864
+        },
+        {
+          "word": " getting",
+          "start": 49.34,
+          "end": 49.56,
+          "probability": 0.998103141784668
+        },
+        {
+          "word": " up.",
+          "start": 49.56,
+          "end": 49.94,
+          "probability": 0.9978172779083252
+        },
+        {
+          "word": " He",
+          "start": 50.74,
+          "end": 51.5,
+          "probability": 0.9893754720687866
+        },
+        {
+          "word": " sat",
+          "start": 51.5,
+          "end": 51.76,
+          "probability": 0.9943015575408936
+        },
+        {
+          "word": " up,",
+          "start": 51.76,
+          "end": 52.1,
+          "probability": 0.9990621209144592
+        },
+        {
+          "word": " and",
+          "start": 52.62,
+          "end": 52.84,
+          "probability": 0.9969269633293152
+        },
+        {
+          "word": " Hagrid's",
+          "start": 52.84,
+          "end": 53.52,
+          "probability": 0.9973207116127014
+        },
+        {
+          "word": " heavy",
+          "start": 53.52,
+          "end": 53.92,
+          "probability": 0.9884309768676758
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5392,
+      "start": 53.92,
+      "end": 61.36,
+      "text": " coat fell off him. The hut was full of sunlight. The storm was over. Hagrid himself was asleep",
+      "tokens": [
+        50364,
+        10690,
+        5696,
+        766,
+        796,
+        13,
+        440,
+        36755,
+        390,
+        1577,
+        295,
+        18379,
+        13,
+        440,
+        7679,
+        390,
+        670,
+        13,
+        34758,
+        8558,
+        3647,
+        390,
+        11039,
+        50738
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1290856785244412,
+      "compression_ratio": 1.59375,
+      "no_speech_prob": 0.022139517590403557,
+      "words": [
+        {
+          "word": " coat",
+          "start": 53.92,
+          "end": 54.26,
+          "probability": 0.05971722677350044
+        },
+        {
+          "word": " fell",
+          "start": 54.26,
+          "end": 54.9,
+          "probability": 0.8537506461143494
+        },
+        {
+          "word": " off",
+          "start": 54.9,
+          "end": 55.14,
+          "probability": 0.9775107502937317
+        },
+        {
+          "word": " him.",
+          "start": 55.14,
+          "end": 55.32,
+          "probability": 0.9841701984405518
+        },
+        {
+          "word": " The",
+          "start": 56.26,
+          "end": 56.86,
+          "probability": 0.9780851602554321
+        },
+        {
+          "word": " hut",
+          "start": 56.86,
+          "end": 57.08,
+          "probability": 0.9937343001365662
+        },
+        {
+          "word": " was",
+          "start": 57.08,
+          "end": 57.4,
+          "probability": 0.9978885054588318
+        },
+        {
+          "word": " full",
+          "start": 57.4,
+          "end": 57.62,
+          "probability": 0.9984741806983948
+        },
+        {
+          "word": " of",
+          "start": 57.62,
+          "end": 57.74,
+          "probability": 0.9991466999053955
+        },
+        {
+          "word": " sunlight.",
+          "start": 57.74,
+          "end": 58.1,
+          "probability": 0.9952774047851562
+        },
+        {
+          "word": " The",
+          "start": 58.44,
+          "end": 58.54,
+          "probability": 0.9934326410293579
+        },
+        {
+          "word": " storm",
+          "start": 58.54,
+          "end": 58.96,
+          "probability": 0.9959068298339844
+        },
+        {
+          "word": " was",
+          "start": 58.96,
+          "end": 59.22,
+          "probability": 0.9991320967674255
+        },
+        {
+          "word": " over.",
+          "start": 59.22,
+          "end": 59.6,
+          "probability": 0.9991440773010254
+        },
+        {
+          "word": " Hagrid",
+          "start": 60.06,
+          "end": 60.38,
+          "probability": 0.9960215389728546
+        },
+        {
+          "word": " himself",
+          "start": 60.38,
+          "end": 60.64,
+          "probability": 0.9420022368431091
+        },
+        {
+          "word": " was",
+          "start": 60.64,
+          "end": 61.04,
+          "probability": 0.9967143535614014
+        },
+        {
+          "word": " asleep",
+          "start": 61.04,
+          "end": 61.36,
+          "probability": 0.9972321391105652
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5392,
+      "start": 61.36,
+      "end": 66.5,
+      "text": " on the collapsed sofa, and there was an owl wrapping its claw on the window. A newspaper",
+      "tokens": [
+        50738,
+        322,
+        264,
+        24578,
+        28668,
+        11,
+        293,
+        456,
+        390,
+        364,
+        34488,
+        21993,
+        1080,
+        32019,
+        322,
+        264,
+        4910,
+        13,
+        316,
+        13669,
+        51022
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1290856785244412,
+      "compression_ratio": 1.59375,
+      "no_speech_prob": 0.022139517590403557,
+      "words": [
+        {
+          "word": " on",
+          "start": 61.36,
+          "end": 61.58,
+          "probability": 0.9961191415786743
+        },
+        {
+          "word": " the",
+          "start": 61.58,
+          "end": 61.68,
+          "probability": 0.9938229322433472
+        },
+        {
+          "word": " collapsed",
+          "start": 61.68,
+          "end": 62.06,
+          "probability": 0.9952455163002014
+        },
+        {
+          "word": " sofa,",
+          "start": 62.06,
+          "end": 62.5,
+          "probability": 0.9952229857444763
+        },
+        {
+          "word": " and",
+          "start": 62.8,
+          "end": 62.92,
+          "probability": 0.9966754913330078
+        },
+        {
+          "word": " there",
+          "start": 62.92,
+          "end": 63.02,
+          "probability": 0.9979979395866394
+        },
+        {
+          "word": " was",
+          "start": 63.02,
+          "end": 63.14,
+          "probability": 0.9968594312667847
+        },
+        {
+          "word": " an",
+          "start": 63.14,
+          "end": 63.3,
+          "probability": 0.9912541508674622
+        },
+        {
+          "word": " owl",
+          "start": 63.3,
+          "end": 63.7,
+          "probability": 0.9860765933990479
+        },
+        {
+          "word": " wrapping",
+          "start": 63.7,
+          "end": 64.36,
+          "probability": 0.9413227438926697
+        },
+        {
+          "word": " its",
+          "start": 64.36,
+          "end": 64.68,
+          "probability": 0.9892113208770752
+        },
+        {
+          "word": " claw",
+          "start": 64.68,
+          "end": 65.02,
+          "probability": 0.9752733707427979
+        },
+        {
+          "word": " on",
+          "start": 65.02,
+          "end": 65.24,
+          "probability": 0.9128561019897461
+        },
+        {
+          "word": " the",
+          "start": 65.24,
+          "end": 65.32,
+          "probability": 0.9949120879173279
+        },
+        {
+          "word": " window.",
+          "start": 65.32,
+          "end": 65.6,
+          "probability": 0.9970241189002991
+        },
+        {
+          "word": " A",
+          "start": 66.0,
+          "end": 66.12,
+          "probability": 0.9819598197937012
+        },
+        {
+          "word": " newspaper",
+          "start": 66.12,
+          "end": 66.5,
+          "probability": 0.996297299861908
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5392,
+      "start": 67.08,
+      "end": 73.52,
+      "text": " held in its beak. Harry scrambled to his feet. So happy he felt as though a large balloon",
+      "tokens": [
+        51022,
+        5167,
+        294,
+        1080,
+        48663,
+        13,
+        9378,
+        49127,
+        281,
+        702,
+        3521,
+        13,
+        407,
+        2055,
+        415,
+        2762,
+        382,
+        1673,
+        257,
+        2416,
+        16994,
+        51354
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1290856785244412,
+      "compression_ratio": 1.59375,
+      "no_speech_prob": 0.022139517590403557,
+      "words": [
+        {
+          "word": " held",
+          "start": 66.98,
+          "end": 67.28,
+          "probability": 0.9730299711227417
+        },
+        {
+          "word": " in",
+          "start": 67.28,
+          "end": 67.48,
+          "probability": 0.9913930892944336
+        },
+        {
+          "word": " its",
+          "start": 67.48,
+          "end": 67.64,
+          "probability": 0.9944537281990051
+        },
+        {
+          "word": " beak.",
+          "start": 67.64,
+          "end": 67.94,
+          "probability": 0.9953376054763794
+        },
+        {
+          "word": " Harry",
+          "start": 68.8,
+          "end": 69.16,
+          "probability": 0.9928252696990967
+        },
+        {
+          "word": " scrambled",
+          "start": 69.16,
+          "end": 69.92,
+          "probability": 0.97489333152771
+        },
+        {
+          "word": " to",
+          "start": 69.92,
+          "end": 70.24,
+          "probability": 0.99561607837677
+        },
+        {
+          "word": " his",
+          "start": 70.24,
+          "end": 70.38,
+          "probability": 0.9964985847473145
+        },
+        {
+          "word": " feet.",
+          "start": 70.38,
+          "end": 70.62,
+          "probability": 0.9973925352096558
+        },
+        {
+          "word": " So",
+          "start": 70.9,
+          "end": 71.16,
+          "probability": 0.9768794178962708
+        },
+        {
+          "word": " happy",
+          "start": 71.16,
+          "end": 71.66,
+          "probability": 0.9962122440338135
+        },
+        {
+          "word": " he",
+          "start": 71.66,
+          "end": 72.06,
+          "probability": 0.4751330018043518
+        },
+        {
+          "word": " felt",
+          "start": 72.06,
+          "end": 72.24,
+          "probability": 0.9963221549987793
+        },
+        {
+          "word": " as",
+          "start": 72.24,
+          "end": 72.4,
+          "probability": 0.9753348231315613
+        },
+        {
+          "word": " though",
+          "start": 72.4,
+          "end": 72.5,
+          "probability": 0.9911927580833435
+        },
+        {
+          "word": " a",
+          "start": 72.5,
+          "end": 72.6,
+          "probability": 0.9980065226554871
+        },
+        {
+          "word": " large",
+          "start": 72.6,
+          "end": 73.04,
+          "probability": 0.9973130822181702
+        },
+        {
+          "word": " balloon",
+          "start": 73.04,
+          "end": 73.52,
+          "probability": 0.9938515424728394
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5392,
+      "start": 73.52,
+      "end": 78.96,
+      "text": " was swelling inside him. He went straight to the window and jerked it open. The owl",
+      "tokens": [
+        51354,
+        390,
+        33127,
+        1854,
+        796,
+        13,
+        634,
+        1437,
+        2997,
+        281,
+        264,
+        4910,
+        293,
+        25197,
+        292,
+        309,
+        1269,
+        13,
+        440,
+        34488,
+        51625
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1290856785244412,
+      "compression_ratio": 1.59375,
+      "no_speech_prob": 0.022139517590403557,
+      "words": [
+        {
+          "word": " was",
+          "start": 73.52,
+          "end": 73.98,
+          "probability": 0.9953759908676147
+        },
+        {
+          "word": " swelling",
+          "start": 73.98,
+          "end": 74.5,
+          "probability": 0.9672861099243164
+        },
+        {
+          "word": " inside",
+          "start": 74.5,
+          "end": 75.1,
+          "probability": 0.9901508092880249
+        },
+        {
+          "word": " him.",
+          "start": 75.1,
+          "end": 75.4,
+          "probability": 0.9929117560386658
+        },
+        {
+          "word": " He",
+          "start": 75.7,
+          "end": 75.92,
+          "probability": 0.9971606731414795
+        },
+        {
+          "word": " went",
+          "start": 75.92,
+          "end": 76.06,
+          "probability": 0.9993321299552917
+        },
+        {
+          "word": " straight",
+          "start": 76.06,
+          "end": 76.4,
+          "probability": 0.9979591369628906
+        },
+        {
+          "word": " to",
+          "start": 76.4,
+          "end": 76.6,
+          "probability": 0.9919509887695312
+        },
+        {
+          "word": " the",
+          "start": 76.6,
+          "end": 76.68,
+          "probability": 0.9987967014312744
+        },
+        {
+          "word": " window",
+          "start": 76.68,
+          "end": 76.88,
+          "probability": 0.9979972243309021
+        },
+        {
+          "word": " and",
+          "start": 76.88,
+          "end": 77.08,
+          "probability": 0.8148937225341797
+        },
+        {
+          "word": " jerked",
+          "start": 77.08,
+          "end": 77.78,
+          "probability": 0.9445730447769165
+        },
+        {
+          "word": " it",
+          "start": 77.78,
+          "end": 77.84,
+          "probability": 0.9982193112373352
+        },
+        {
+          "word": " open.",
+          "start": 77.84,
+          "end": 78.14,
+          "probability": 0.9972755312919617
+        },
+        {
+          "word": " The",
+          "start": 78.54,
+          "end": 78.64,
+          "probability": 0.9972577691078186
+        },
+        {
+          "word": " owl",
+          "start": 78.64,
+          "end": 78.96,
+          "probability": 0.998428463935852
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7896,
+      "start": 78.96,
+      "end": 84.36,
+      "text": " swooped in and dropped the newspaper on top of Hagrid, who didn't wake up. The owl then",
+      "tokens": [
+        50364,
+        13291,
+        27277,
+        294,
+        293,
+        8119,
+        264,
+        13669,
+        322,
+        1192,
+        295,
+        34758,
+        8558,
+        11,
+        567,
+        994,
+        380,
+        6634,
+        493,
+        13,
+        440,
+        34488,
+        550,
+        50642
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16690320466694078,
+      "compression_ratio": 1.5728155339805825,
+      "no_speech_prob": 0.027443598955869675,
+      "words": [
+        {
+          "word": " swooped",
+          "start": 78.96,
+          "end": 79.68,
+          "probability": 0.48761021053906006
+        },
+        {
+          "word": " in",
+          "start": 79.68,
+          "end": 79.9,
+          "probability": 0.9950563907623291
+        },
+        {
+          "word": " and",
+          "start": 79.9,
+          "end": 80.24,
+          "probability": 0.8034986853599548
+        },
+        {
+          "word": " dropped",
+          "start": 80.24,
+          "end": 80.54,
+          "probability": 0.9967973828315735
+        },
+        {
+          "word": " the",
+          "start": 80.54,
+          "end": 80.74,
+          "probability": 0.994848370552063
+        },
+        {
+          "word": " newspaper",
+          "start": 80.74,
+          "end": 81.1,
+          "probability": 0.9959681034088135
+        },
+        {
+          "word": " on",
+          "start": 81.1,
+          "end": 81.38,
+          "probability": 0.9957823753356934
+        },
+        {
+          "word": " top",
+          "start": 81.38,
+          "end": 81.52,
+          "probability": 0.9940151572227478
+        },
+        {
+          "word": " of",
+          "start": 81.52,
+          "end": 81.68,
+          "probability": 0.994387686252594
+        },
+        {
+          "word": " Hagrid,",
+          "start": 81.68,
+          "end": 82.04,
+          "probability": 0.9936242997646332
+        },
+        {
+          "word": " who",
+          "start": 82.26,
+          "end": 82.38,
+          "probability": 0.9985236525535583
+        },
+        {
+          "word": " didn't",
+          "start": 82.38,
+          "end": 82.6,
+          "probability": 0.9956955909729004
+        },
+        {
+          "word": " wake",
+          "start": 82.6,
+          "end": 82.78,
+          "probability": 0.9979775547981262
+        },
+        {
+          "word": " up.",
+          "start": 82.78,
+          "end": 83.06,
+          "probability": 0.999077558517456
+        },
+        {
+          "word": " The",
+          "start": 83.56,
+          "end": 83.7,
+          "probability": 0.9936206936836243
+        },
+        {
+          "word": " owl",
+          "start": 83.7,
+          "end": 83.96,
+          "probability": 0.9742796421051025
+        },
+        {
+          "word": " then",
+          "start": 83.96,
+          "end": 84.36,
+          "probability": 0.9639523029327393
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7896,
+      "start": 84.36,
+      "end": 90.24,
+      "text": " fluttered onto the floor and began to attack Hagrid's coat. Don't do that! Harry tried",
+      "tokens": [
+        50642,
+        932,
+        9947,
+        292,
+        3911,
+        264,
+        4123,
+        293,
+        4283,
+        281,
+        2690,
+        34758,
+        8558,
+        311,
+        10690,
+        13,
+        1468,
+        380,
+        360,
+        300,
+        0,
+        9378,
+        3031,
+        50930
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16690320466694078,
+      "compression_ratio": 1.5728155339805825,
+      "no_speech_prob": 0.027443598955869675,
+      "words": [
+        {
+          "word": " fluttered",
+          "start": 84.36,
+          "end": 85.08,
+          "probability": 0.9922936161359152
+        },
+        {
+          "word": " onto",
+          "start": 85.08,
+          "end": 85.18,
+          "probability": 0.7965907454490662
+        },
+        {
+          "word": " the",
+          "start": 85.18,
+          "end": 85.34,
+          "probability": 0.9990348815917969
+        },
+        {
+          "word": " floor",
+          "start": 85.34,
+          "end": 85.56,
+          "probability": 0.9987220168113708
+        },
+        {
+          "word": " and",
+          "start": 85.56,
+          "end": 85.74,
+          "probability": 0.9317976236343384
+        },
+        {
+          "word": " began",
+          "start": 85.74,
+          "end": 85.94,
+          "probability": 0.9982383251190186
+        },
+        {
+          "word": " to",
+          "start": 85.94,
+          "end": 86.1,
+          "probability": 0.9983073472976685
+        },
+        {
+          "word": " attack",
+          "start": 86.1,
+          "end": 86.5,
+          "probability": 0.998162567615509
+        },
+        {
+          "word": " Hagrid's",
+          "start": 86.5,
+          "end": 87.06,
+          "probability": 0.9988565842310587
+        },
+        {
+          "word": " coat.",
+          "start": 87.06,
+          "end": 87.32,
+          "probability": 0.9954156875610352
+        },
+        {
+          "word": " Don't",
+          "start": 87.94,
+          "end": 88.46,
+          "probability": 0.583722710609436
+        },
+        {
+          "word": " do",
+          "start": 88.46,
+          "end": 88.6,
+          "probability": 0.9978641867637634
+        },
+        {
+          "word": " that!",
+          "start": 88.6,
+          "end": 88.9,
+          "probability": 0.9986060261726379
+        },
+        {
+          "word": " Harry",
+          "start": 89.54,
+          "end": 89.84,
+          "probability": 0.9931179285049438
+        },
+        {
+          "word": " tried",
+          "start": 89.84,
+          "end": 90.24,
+          "probability": 0.9982537627220154
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7896,
+      "start": 90.24,
+      "end": 95.8,
+      "text": " to wave the owl out of the way, but it snapped its beak fiercely at him and carried on, savaging",
+      "tokens": [
+        50930,
+        281,
+        5772,
+        264,
+        34488,
+        484,
+        295,
+        264,
+        636,
+        11,
+        457,
+        309,
+        41396,
+        1080,
+        48663,
+        16334,
+        42879,
+        412,
+        796,
+        293,
+        9094,
+        322,
+        11,
+        11163,
+        3568,
+        51210
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16690320466694078,
+      "compression_ratio": 1.5728155339805825,
+      "no_speech_prob": 0.027443598955869675,
+      "words": [
+        {
+          "word": " to",
+          "start": 90.24,
+          "end": 90.44,
+          "probability": 0.9982619881629944
+        },
+        {
+          "word": " wave",
+          "start": 90.44,
+          "end": 90.7,
+          "probability": 0.9189184308052063
+        },
+        {
+          "word": " the",
+          "start": 90.7,
+          "end": 90.94,
+          "probability": 0.9958570599555969
+        },
+        {
+          "word": " owl",
+          "start": 90.94,
+          "end": 91.18,
+          "probability": 0.9958963394165039
+        },
+        {
+          "word": " out",
+          "start": 91.18,
+          "end": 91.44,
+          "probability": 0.9980995059013367
+        },
+        {
+          "word": " of",
+          "start": 91.44,
+          "end": 91.54,
+          "probability": 0.990736186504364
+        },
+        {
+          "word": " the",
+          "start": 91.54,
+          "end": 91.62,
+          "probability": 0.9950695037841797
+        },
+        {
+          "word": " way,",
+          "start": 91.62,
+          "end": 91.88,
+          "probability": 0.9981604218482971
+        },
+        {
+          "word": " but",
+          "start": 92.04,
+          "end": 92.18,
+          "probability": 0.9982455968856812
+        },
+        {
+          "word": " it",
+          "start": 92.18,
+          "end": 92.34,
+          "probability": 0.9891102910041809
+        },
+        {
+          "word": " snapped",
+          "start": 92.34,
+          "end": 92.72,
+          "probability": 0.9889334440231323
+        },
+        {
+          "word": " its",
+          "start": 92.72,
+          "end": 93.04,
+          "probability": 0.9769859910011292
+        },
+        {
+          "word": " beak",
+          "start": 93.04,
+          "end": 93.28,
+          "probability": 0.9987959861755371
+        },
+        {
+          "word": " fiercely",
+          "start": 93.28,
+          "end": 93.86,
+          "probability": 0.9964732527732849
+        },
+        {
+          "word": " at",
+          "start": 93.86,
+          "end": 94.12,
+          "probability": 0.9982491731643677
+        },
+        {
+          "word": " him",
+          "start": 94.12,
+          "end": 94.24,
+          "probability": 0.9985761642456055
+        },
+        {
+          "word": " and",
+          "start": 94.24,
+          "end": 94.54,
+          "probability": 0.6208191514015198
+        },
+        {
+          "word": " carried",
+          "start": 94.54,
+          "end": 94.84,
+          "probability": 0.998936116695404
+        },
+        {
+          "word": " on,",
+          "start": 94.84,
+          "end": 95.12,
+          "probability": 0.9984366297721863
+        },
+        {
+          "word": " savaging",
+          "start": 95.32,
+          "end": 95.8,
+          "probability": 0.9512103199958801
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7896,
+      "start": 95.8,
+      "end": 96.28,
+      "text": " the coat.",
+      "tokens": [
+        51210,
+        264,
+        10690,
+        13,
+        51260
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16690320466694078,
+      "compression_ratio": 1.5728155339805825,
+      "no_speech_prob": 0.027443598955869675,
+      "words": [
+        {
+          "word": " the",
+          "start": 95.8,
+          "end": 96.08,
+          "probability": 0.9983080625534058
+        },
+        {
+          "word": " coat.",
+          "start": 96.08,
+          "end": 96.28,
+          "probability": 0.9989940524101257
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 7896,
+      "start": 97.04,
+      "end": 99.72,
+      "text": " Hagrid, said Harry loudly, there's an owl!",
+      "tokens": [
+        51260,
+        34758,
+        8558,
+        11,
+        848,
+        9378,
+        22958,
+        11,
+        456,
+        311,
+        364,
+        34488,
+        0,
+        51438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16690320466694078,
+      "compression_ratio": 1.5728155339805825,
+      "no_speech_prob": 0.027443598955869675,
+      "words": [
+        {
+          "word": " Hagrid,",
+          "start": 97.04,
+          "end": 97.56,
+          "probability": 0.5125163579359651
+        },
+        {
+          "word": " said",
+          "start": 97.86,
+          "end": 98.22,
+          "probability": 0.9961722493171692
+        },
+        {
+          "word": " Harry",
+          "start": 98.22,
+          "end": 98.5,
+          "probability": 0.9946359992027283
+        },
+        {
+          "word": " loudly,",
+          "start": 98.5,
+          "end": 98.78,
+          "probability": 0.9608113765716553
+        },
+        {
+          "word": " there's",
+          "start": 99.04,
+          "end": 99.2,
+          "probability": 0.4926014617085457
+        },
+        {
+          "word": " an",
+          "start": 99.2,
+          "end": 99.32,
+          "probability": 0.9970135688781738
+        },
+        {
+          "word": " owl!",
+          "start": 99.32,
+          "end": 99.72,
+          "probability": 0.9961820244789124
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 9972,
+      "start": 100.72,
+      "end": 103.18,
+      "text": " Pay him, Hagrid grunted into the sofa.",
+      "tokens": [
+        50414,
+        11431,
+        796,
+        11,
+        34758,
+        8558,
+        677,
+        19015,
+        666,
+        264,
+        28668,
+        13,
+        50590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " Pay",
+          "start": 100.6,
+          "end": 100.96,
+          "probability": 0.001480542472563684
+        },
+        {
+          "word": " him,",
+          "start": 100.96,
+          "end": 101.42,
+          "probability": 0.9848425388336182
+        },
+        {
+          "word": " Hagrid",
+          "start": 101.76,
+          "end": 102.06,
+          "probability": 0.9893424212932587
+        },
+        {
+          "word": " grunted",
+          "start": 102.06,
+          "end": 102.42,
+          "probability": 0.9788519144058228
+        },
+        {
+          "word": " into",
+          "start": 102.42,
+          "end": 102.74,
+          "probability": 0.8911523818969727
+        },
+        {
+          "word": " the",
+          "start": 102.74,
+          "end": 102.92,
+          "probability": 0.9984444975852966
+        },
+        {
+          "word": " sofa.",
+          "start": 102.92,
+          "end": 103.18,
+          "probability": 0.9957375526428223
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 9972,
+      "start": 103.82,
+      "end": 104.32,
+      "text": " What?",
+      "tokens": [
+        50590,
+        708,
+        30,
+        50652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " What?",
+          "start": 103.82,
+          "end": 104.32,
+          "probability": 0.17718572914600372
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 9972,
+      "start": 105.22,
+      "end": 109.7,
+      "text": " He wants paying for delivering the paper. Look in the pockets!",
+      "tokens": [
+        50652,
+        634,
+        2738,
+        6229,
+        337,
+        14666,
+        264,
+        3035,
+        13,
+        2053,
+        294,
+        264,
+        16491,
+        0,
+        50956
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " He",
+          "start": 105.22,
+          "end": 105.58,
+          "probability": 0.7199333906173706
+        },
+        {
+          "word": " wants",
+          "start": 105.58,
+          "end": 105.88,
+          "probability": 0.9388870000839233
+        },
+        {
+          "word": " paying",
+          "start": 105.88,
+          "end": 106.38,
+          "probability": 0.983873188495636
+        },
+        {
+          "word": " for",
+          "start": 106.38,
+          "end": 106.78,
+          "probability": 0.9930822849273682
+        },
+        {
+          "word": " delivering",
+          "start": 106.78,
+          "end": 107.2,
+          "probability": 0.9916683435440063
+        },
+        {
+          "word": " the",
+          "start": 107.2,
+          "end": 107.44,
+          "probability": 0.9974068999290466
+        },
+        {
+          "word": " paper.",
+          "start": 107.44,
+          "end": 107.86,
+          "probability": 0.9968998432159424
+        },
+        {
+          "word": " Look",
+          "start": 108.36,
+          "end": 109.08,
+          "probability": 0.5598264336585999
+        },
+        {
+          "word": " in",
+          "start": 109.08,
+          "end": 109.26,
+          "probability": 0.9942538142204285
+        },
+        {
+          "word": " the",
+          "start": 109.26,
+          "end": 109.38,
+          "probability": 0.9969658255577087
+        },
+        {
+          "word": " pockets!",
+          "start": 109.38,
+          "end": 109.7,
+          "probability": 0.9950641989707947
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 9972,
+      "start": 111.56,
+      "end": 117.02,
+      "text": " Hagrid's coat seemed to be made of nothing but pockets. Bunches of keys, slug pellets,",
+      "tokens": [
+        50956,
+        34758,
+        8558,
+        311,
+        10690,
+        6576,
+        281,
+        312,
+        1027,
+        295,
+        1825,
+        457,
+        16491,
+        13,
+        363,
+        1680,
+        279,
+        295,
+        9317,
+        11,
+        1061,
+        697,
+        33836,
+        1385,
+        11,
+        51244
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " Hagrid's",
+          "start": 111.36,
+          "end": 111.72,
+          "probability": 0.9897382855415344
+        },
+        {
+          "word": " coat",
+          "start": 111.72,
+          "end": 111.88,
+          "probability": 0.9964008331298828
+        },
+        {
+          "word": " seemed",
+          "start": 111.88,
+          "end": 112.44,
+          "probability": 0.9874863624572754
+        },
+        {
+          "word": " to",
+          "start": 112.44,
+          "end": 112.62,
+          "probability": 0.9993500113487244
+        },
+        {
+          "word": " be",
+          "start": 112.62,
+          "end": 112.7,
+          "probability": 0.9965341091156006
+        },
+        {
+          "word": " made",
+          "start": 112.7,
+          "end": 112.88,
+          "probability": 0.9980841875076294
+        },
+        {
+          "word": " of",
+          "start": 112.88,
+          "end": 113.0,
+          "probability": 0.9977025389671326
+        },
+        {
+          "word": " nothing",
+          "start": 113.0,
+          "end": 113.28,
+          "probability": 0.999032735824585
+        },
+        {
+          "word": " but",
+          "start": 113.28,
+          "end": 113.68,
+          "probability": 0.9474822282791138
+        },
+        {
+          "word": " pockets.",
+          "start": 113.68,
+          "end": 114.24,
+          "probability": 0.9953364729881287
+        },
+        {
+          "word": " Bunches",
+          "start": 114.84,
+          "end": 115.24,
+          "probability": 0.9723587433497111
+        },
+        {
+          "word": " of",
+          "start": 115.24,
+          "end": 115.34,
+          "probability": 0.9988829493522644
+        },
+        {
+          "word": " keys,",
+          "start": 115.34,
+          "end": 115.7,
+          "probability": 0.9928151369094849
+        },
+        {
+          "word": " slug",
+          "start": 116.16,
+          "end": 116.54,
+          "probability": 0.9901215136051178
+        },
+        {
+          "word": " pellets,",
+          "start": 116.54,
+          "end": 117.02,
+          "probability": 0.9375694692134857
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 9972,
+      "start": 117.28,
+      "end": 123.3,
+      "text": " balls of string, mint humbugs, tea bags. Finally, Harry pulled out a handful of strange-looking",
+      "tokens": [
+        51244,
+        9803,
+        295,
+        6798,
+        11,
+        18189,
+        1484,
+        65,
+        14950,
+        11,
+        5817,
+        10405,
+        13,
+        6288,
+        11,
+        9378,
+        7373,
+        484,
+        257,
+        16458,
+        295,
+        5861,
+        12,
+        16129,
+        51548
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " balls",
+          "start": 117.28,
+          "end": 117.56,
+          "probability": 0.9742593765258789
+        },
+        {
+          "word": " of",
+          "start": 117.56,
+          "end": 117.78,
+          "probability": 0.9982964396476746
+        },
+        {
+          "word": " string,",
+          "start": 117.78,
+          "end": 118.14,
+          "probability": 0.995806097984314
+        },
+        {
+          "word": " mint",
+          "start": 118.5,
+          "end": 118.7,
+          "probability": 0.8985525369644165
+        },
+        {
+          "word": " humbugs,",
+          "start": 118.7,
+          "end": 119.32,
+          "probability": 0.9081333676973978
+        },
+        {
+          "word": " tea",
+          "start": 119.54,
+          "end": 119.74,
+          "probability": 0.7091385722160339
+        },
+        {
+          "word": " bags.",
+          "start": 119.74,
+          "end": 120.1,
+          "probability": 0.7144604921340942
+        },
+        {
+          "word": " Finally,",
+          "start": 120.7,
+          "end": 121.12,
+          "probability": 0.9981353282928467
+        },
+        {
+          "word": " Harry",
+          "start": 121.46,
+          "end": 121.62,
+          "probability": 0.9921340942382812
+        },
+        {
+          "word": " pulled",
+          "start": 121.62,
+          "end": 121.82,
+          "probability": 0.9986810088157654
+        },
+        {
+          "word": " out",
+          "start": 121.82,
+          "end": 122.0,
+          "probability": 0.9961573481559753
+        },
+        {
+          "word": " a",
+          "start": 122.0,
+          "end": 122.12,
+          "probability": 0.9983981251716614
+        },
+        {
+          "word": " handful",
+          "start": 122.12,
+          "end": 122.4,
+          "probability": 0.9875494241714478
+        },
+        {
+          "word": " of",
+          "start": 122.4,
+          "end": 122.58,
+          "probability": 0.9990732669830322
+        },
+        {
+          "word": " strange",
+          "start": 122.58,
+          "end": 123.08,
+          "probability": 0.9982798099517822
+        },
+        {
+          "word": "-looking",
+          "start": 123.08,
+          "end": 123.3,
+          "probability": 0.9230968654155731
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 9972,
+      "start": 123.3,
+      "end": 123.86,
+      "text": " coins.",
+      "tokens": [
+        51548,
+        13561,
+        13,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24126087145858935,
+      "compression_ratio": 1.448780487804878,
+      "no_speech_prob": 0.19029588997364044,
+      "words": [
+        {
+          "word": " coins.",
+          "start": 123.3,
+          "end": 123.86,
+          "probability": 0.9980791807174683
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 12386,
+      "start": 124.54,
+      "end": 128.2,
+      "text": " Give him five knuts, said Hagrid sleepily.",
+      "tokens": [
+        50398,
+        5303,
+        796,
+        1732,
+        444,
+        3648,
+        11,
+        848,
+        34758,
+        8558,
+        2817,
+        953,
+        13,
+        50628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " Give",
+          "start": 124.54,
+          "end": 125.2,
+          "probability": 0.05270426347851753
+        },
+        {
+          "word": " him",
+          "start": 125.2,
+          "end": 125.46,
+          "probability": 0.9671819806098938
+        },
+        {
+          "word": " five",
+          "start": 125.46,
+          "end": 125.82,
+          "probability": 0.9797690510749817
+        },
+        {
+          "word": " knuts,",
+          "start": 125.82,
+          "end": 126.46,
+          "probability": 0.9237259328365326
+        },
+        {
+          "word": " said",
+          "start": 126.9,
+          "end": 127.26,
+          "probability": 0.9681567549705505
+        },
+        {
+          "word": " Hagrid",
+          "start": 127.26,
+          "end": 127.62,
+          "probability": 0.992439329624176
+        },
+        {
+          "word": " sleepily.",
+          "start": 127.62,
+          "end": 128.2,
+          "probability": 0.9097690582275391
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 12386,
+      "start": 129.16,
+      "end": 129.82,
+      "text": " Knuts?",
+      "tokens": [
+        50628,
+        10519,
+        3648,
+        30,
+        50678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " Knuts?",
+          "start": 129.16,
+          "end": 129.82,
+          "probability": 0.7014568895101547
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 12386,
+      "start": 130.78,
+      "end": 132.1,
+      "text": " The little bronze ones.",
+      "tokens": [
+        50678,
+        440,
+        707,
+        25454,
+        2306,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " The",
+          "start": 130.78,
+          "end": 130.98,
+          "probability": 0.8313197493553162
+        },
+        {
+          "word": " little",
+          "start": 130.98,
+          "end": 131.24,
+          "probability": 0.9747768640518188
+        },
+        {
+          "word": " bronze",
+          "start": 131.24,
+          "end": 131.7,
+          "probability": 0.8937732577323914
+        },
+        {
+          "word": " ones.",
+          "start": 131.7,
+          "end": 132.1,
+          "probability": 0.9755236506462097
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 12386,
+      "start": 133.58,
+      "end": 138.98,
+      "text": " Harry counted out five little bronze coins, and the owl held out its leg so he could",
+      "tokens": [
+        50864,
+        9378,
+        20150,
+        484,
+        1732,
+        707,
+        25454,
+        13561,
+        11,
+        293,
+        264,
+        34488,
+        5167,
+        484,
+        1080,
+        1676,
+        370,
+        415,
+        727,
+        51120
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " Harry",
+          "start": 133.58,
+          "end": 133.88,
+          "probability": 0.9687122106552124
+        },
+        {
+          "word": " counted",
+          "start": 133.88,
+          "end": 134.48,
+          "probability": 0.983596682548523
+        },
+        {
+          "word": " out",
+          "start": 134.48,
+          "end": 134.7,
+          "probability": 0.9980701804161072
+        },
+        {
+          "word": " five",
+          "start": 134.7,
+          "end": 135.1,
+          "probability": 0.9958791732788086
+        },
+        {
+          "word": " little",
+          "start": 135.1,
+          "end": 135.4,
+          "probability": 0.9932016730308533
+        },
+        {
+          "word": " bronze",
+          "start": 135.4,
+          "end": 135.84,
+          "probability": 0.998153030872345
+        },
+        {
+          "word": " coins,",
+          "start": 135.84,
+          "end": 136.24,
+          "probability": 0.9933887720108032
+        },
+        {
+          "word": " and",
+          "start": 136.58,
+          "end": 136.76,
+          "probability": 0.9946020841598511
+        },
+        {
+          "word": " the",
+          "start": 136.76,
+          "end": 136.88,
+          "probability": 0.9950109720230103
+        },
+        {
+          "word": " owl",
+          "start": 136.88,
+          "end": 137.22,
+          "probability": 0.9888226985931396
+        },
+        {
+          "word": " held",
+          "start": 137.22,
+          "end": 137.62,
+          "probability": 0.9956340193748474
+        },
+        {
+          "word": " out",
+          "start": 137.62,
+          "end": 137.82,
+          "probability": 0.9982414245605469
+        },
+        {
+          "word": " its",
+          "start": 137.82,
+          "end": 138.02,
+          "probability": 0.9760577082633972
+        },
+        {
+          "word": " leg",
+          "start": 138.02,
+          "end": 138.38,
+          "probability": 0.9952042102813721
+        },
+        {
+          "word": " so",
+          "start": 138.38,
+          "end": 138.76,
+          "probability": 0.7304834723472595
+        },
+        {
+          "word": " he",
+          "start": 138.76,
+          "end": 138.88,
+          "probability": 0.8870700597763062
+        },
+        {
+          "word": " could",
+          "start": 138.88,
+          "end": 138.98,
+          "probability": 0.996483325958252
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 12386,
+      "start": 138.98,
+      "end": 144.08,
+      "text": " put the money into a small leather pouch tied to it. Then it flew off through the open window.",
+      "tokens": [
+        51120,
+        829,
+        264,
+        1460,
+        666,
+        257,
+        1359,
+        12821,
+        27781,
+        9601,
+        281,
+        309,
+        13,
+        1396,
+        309,
+        15728,
+        766,
+        807,
+        264,
+        1269,
+        4910,
+        13,
+        51440
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " put",
+          "start": 138.98,
+          "end": 139.12,
+          "probability": 0.9976810216903687
+        },
+        {
+          "word": " the",
+          "start": 139.12,
+          "end": 139.24,
+          "probability": 0.9876068234443665
+        },
+        {
+          "word": " money",
+          "start": 139.24,
+          "end": 139.44,
+          "probability": 0.998538613319397
+        },
+        {
+          "word": " into",
+          "start": 139.44,
+          "end": 139.62,
+          "probability": 0.9830432534217834
+        },
+        {
+          "word": " a",
+          "start": 139.62,
+          "end": 139.78,
+          "probability": 0.9934397339820862
+        },
+        {
+          "word": " small",
+          "start": 139.78,
+          "end": 140.08,
+          "probability": 0.993989109992981
+        },
+        {
+          "word": " leather",
+          "start": 140.08,
+          "end": 140.46,
+          "probability": 0.9797490239143372
+        },
+        {
+          "word": " pouch",
+          "start": 140.46,
+          "end": 141.02,
+          "probability": 0.9988014698028564
+        },
+        {
+          "word": " tied",
+          "start": 141.02,
+          "end": 141.32,
+          "probability": 0.9948754906654358
+        },
+        {
+          "word": " to",
+          "start": 141.32,
+          "end": 141.58,
+          "probability": 0.9985193610191345
+        },
+        {
+          "word": " it.",
+          "start": 141.58,
+          "end": 141.78,
+          "probability": 0.9991549253463745
+        },
+        {
+          "word": " Then",
+          "start": 142.14,
+          "end": 142.4,
+          "probability": 0.9927425384521484
+        },
+        {
+          "word": " it",
+          "start": 142.4,
+          "end": 142.54,
+          "probability": 0.9940239787101746
+        },
+        {
+          "word": " flew",
+          "start": 142.54,
+          "end": 142.82,
+          "probability": 0.9976752400398254
+        },
+        {
+          "word": " off",
+          "start": 142.82,
+          "end": 143.14,
+          "probability": 0.9968060255050659
+        },
+        {
+          "word": " through",
+          "start": 143.14,
+          "end": 143.34,
+          "probability": 0.9918397665023804
+        },
+        {
+          "word": " the",
+          "start": 143.34,
+          "end": 143.48,
+          "probability": 0.998461127281189
+        },
+        {
+          "word": " open",
+          "start": 143.48,
+          "end": 143.72,
+          "probability": 0.995545506477356
+        },
+        {
+          "word": " window.",
+          "start": 143.72,
+          "end": 144.08,
+          "probability": 0.9983012080192566
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 12386,
+      "start": 145.3,
+      "end": 148.44,
+      "text": " Hagrid yawned loudly, sat up and stretched.",
+      "tokens": [
+        51440,
+        34758,
+        8558,
+        2478,
+        895,
+        292,
+        22958,
+        11,
+        3227,
+        493,
+        293,
+        23563,
+        13,
+        51620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25651240629308364,
+      "compression_ratio": 1.5309278350515463,
+      "no_speech_prob": 0.018644606694579124,
+      "words": [
+        {
+          "word": " Hagrid",
+          "start": 145.3,
+          "end": 145.96,
+          "probability": 0.9985532164573669
+        },
+        {
+          "word": " yawned",
+          "start": 145.96,
+          "end": 146.62,
+          "probability": 0.8264141182104746
+        },
+        {
+          "word": " loudly,",
+          "start": 146.62,
+          "end": 146.92,
+          "probability": 0.9921450018882751
+        },
+        {
+          "word": " sat",
+          "start": 147.42,
+          "end": 147.62,
+          "probability": 0.9934868812561035
+        },
+        {
+          "word": " up",
+          "start": 147.62,
+          "end": 147.9,
+          "probability": 0.9967824220657349
+        },
+        {
+          "word": " and",
+          "start": 147.9,
+          "end": 148.04,
+          "probability": 0.6445937752723694
+        },
+        {
+          "word": " stretched.",
+          "start": 148.04,
+          "end": 148.44,
+          "probability": 0.9935935139656067
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14844,
+      "start": 149.26,
+      "end": 154.64,
+      "text": " Miss me off, Harry, lots to do to-day. Gotta get up to London and boil your stuff for school.",
+      "tokens": [
+        50414,
+        5275,
+        385,
+        766,
+        11,
+        9378,
+        11,
+        3195,
+        281,
+        360,
+        281,
+        12,
+        810,
+        13,
+        21527,
+        483,
+        493,
+        281,
+        7042,
+        293,
+        13329,
+        428,
+        1507,
+        337,
+        1395,
+        13,
+        50746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " Miss",
+          "start": 149.26,
+          "end": 149.82,
+          "probability": 0.05704088136553764
+        },
+        {
+          "word": " me",
+          "start": 149.82,
+          "end": 150.1,
+          "probability": 0.2755337357521057
+        },
+        {
+          "word": " off,",
+          "start": 150.1,
+          "end": 150.3,
+          "probability": 0.9483867883682251
+        },
+        {
+          "word": " Harry,",
+          "start": 150.38,
+          "end": 150.48,
+          "probability": 0.9841476678848267
+        },
+        {
+          "word": " lots",
+          "start": 150.8,
+          "end": 151.02,
+          "probability": 0.797162652015686
+        },
+        {
+          "word": " to",
+          "start": 151.02,
+          "end": 151.3,
+          "probability": 0.997349739074707
+        },
+        {
+          "word": " do",
+          "start": 151.3,
+          "end": 151.42,
+          "probability": 0.9967741370201111
+        },
+        {
+          "word": " to",
+          "start": 151.42,
+          "end": 151.62,
+          "probability": 0.45960527658462524
+        },
+        {
+          "word": "-day.",
+          "start": 151.62,
+          "end": 151.8,
+          "probability": 0.9492631554603577
+        },
+        {
+          "word": " Gotta",
+          "start": 152.08,
+          "end": 152.56,
+          "probability": 0.5030083060264587
+        },
+        {
+          "word": " get",
+          "start": 152.56,
+          "end": 152.7,
+          "probability": 0.950254499912262
+        },
+        {
+          "word": " up",
+          "start": 152.7,
+          "end": 152.82,
+          "probability": 0.9739637970924377
+        },
+        {
+          "word": " to",
+          "start": 152.82,
+          "end": 152.94,
+          "probability": 0.9812146425247192
+        },
+        {
+          "word": " London",
+          "start": 152.94,
+          "end": 153.16,
+          "probability": 0.9981087446212769
+        },
+        {
+          "word": " and",
+          "start": 153.16,
+          "end": 153.42,
+          "probability": 0.9480011463165283
+        },
+        {
+          "word": " boil",
+          "start": 153.42,
+          "end": 153.66,
+          "probability": 0.8188620805740356
+        },
+        {
+          "word": " your",
+          "start": 153.66,
+          "end": 153.82,
+          "probability": 0.5662573575973511
+        },
+        {
+          "word": " stuff",
+          "start": 153.82,
+          "end": 154.12,
+          "probability": 0.9943994879722595
+        },
+        {
+          "word": " for",
+          "start": 154.12,
+          "end": 154.38,
+          "probability": 0.9808058738708496
+        },
+        {
+          "word": " school.",
+          "start": 154.38,
+          "end": 154.64,
+          "probability": 0.9895159006118774
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14844,
+      "start": 155.57999999999998,
+      "end": 161.32,
+      "text": " Harry was turning over the wizard coins and looking at them. He had just thought of something",
+      "tokens": [
+        50746,
+        9378,
+        390,
+        6246,
+        670,
+        264,
+        25807,
+        13561,
+        293,
+        1237,
+        412,
+        552,
+        13,
+        634,
+        632,
+        445,
+        1194,
+        295,
+        746,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " Harry",
+          "start": 155.57999999999998,
+          "end": 156.14,
+          "probability": 0.96614009141922
+        },
+        {
+          "word": " was",
+          "start": 156.14,
+          "end": 156.7,
+          "probability": 0.993759036064148
+        },
+        {
+          "word": " turning",
+          "start": 156.7,
+          "end": 157.1,
+          "probability": 0.9969815611839294
+        },
+        {
+          "word": " over",
+          "start": 157.1,
+          "end": 157.42,
+          "probability": 0.9987021684646606
+        },
+        {
+          "word": " the",
+          "start": 157.42,
+          "end": 157.6,
+          "probability": 0.9939360022544861
+        },
+        {
+          "word": " wizard",
+          "start": 157.6,
+          "end": 157.86,
+          "probability": 0.9480724930763245
+        },
+        {
+          "word": " coins",
+          "start": 157.86,
+          "end": 158.32,
+          "probability": 0.9090136289596558
+        },
+        {
+          "word": " and",
+          "start": 158.32,
+          "end": 158.72,
+          "probability": 0.9624764919281006
+        },
+        {
+          "word": " looking",
+          "start": 158.72,
+          "end": 158.96,
+          "probability": 0.9975264668464661
+        },
+        {
+          "word": " at",
+          "start": 158.96,
+          "end": 159.28,
+          "probability": 0.9986925721168518
+        },
+        {
+          "word": " them.",
+          "start": 159.28,
+          "end": 159.44,
+          "probability": 0.9979027509689331
+        },
+        {
+          "word": " He",
+          "start": 159.9,
+          "end": 160.1,
+          "probability": 0.9962053894996643
+        },
+        {
+          "word": " had",
+          "start": 160.1,
+          "end": 160.18,
+          "probability": 0.8808263540267944
+        },
+        {
+          "word": " just",
+          "start": 160.18,
+          "end": 160.46,
+          "probability": 0.9987357258796692
+        },
+        {
+          "word": " thought",
+          "start": 160.46,
+          "end": 160.82,
+          "probability": 0.9955217838287354
+        },
+        {
+          "word": " of",
+          "start": 160.82,
+          "end": 161.0,
+          "probability": 0.9979985356330872
+        },
+        {
+          "word": " something",
+          "start": 161.0,
+          "end": 161.32,
+          "probability": 0.9942368268966675
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 14844,
+      "start": 161.32,
+      "end": 165.62,
+      "text": " which made him feel as though the happy balloon inside him had got a puncture.",
+      "tokens": [
+        51020,
+        597,
+        1027,
+        796,
+        841,
+        382,
+        1673,
+        264,
+        2055,
+        16994,
+        1854,
+        796,
+        632,
+        658,
+        257,
+        27006,
+        540,
+        13,
+        51270
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " which",
+          "start": 161.32,
+          "end": 161.78,
+          "probability": 0.8966205716133118
+        },
+        {
+          "word": " made",
+          "start": 161.78,
+          "end": 161.94,
+          "probability": 0.9937728047370911
+        },
+        {
+          "word": " him",
+          "start": 161.94,
+          "end": 162.12,
+          "probability": 0.9977341890335083
+        },
+        {
+          "word": " feel",
+          "start": 162.12,
+          "end": 162.36,
+          "probability": 0.9978552460670471
+        },
+        {
+          "word": " as",
+          "start": 162.36,
+          "end": 162.5,
+          "probability": 0.9955430626869202
+        },
+        {
+          "word": " though",
+          "start": 162.5,
+          "end": 162.68,
+          "probability": 0.9968165755271912
+        },
+        {
+          "word": " the",
+          "start": 162.68,
+          "end": 162.8,
+          "probability": 0.9937937259674072
+        },
+        {
+          "word": " happy",
+          "start": 162.8,
+          "end": 163.14,
+          "probability": 0.9533143043518066
+        },
+        {
+          "word": " balloon",
+          "start": 163.14,
+          "end": 163.48,
+          "probability": 0.9816298484802246
+        },
+        {
+          "word": " inside",
+          "start": 163.48,
+          "end": 164.0,
+          "probability": 0.9964413046836853
+        },
+        {
+          "word": " him",
+          "start": 164.0,
+          "end": 164.36,
+          "probability": 0.982961118221283
+        },
+        {
+          "word": " had",
+          "start": 164.36,
+          "end": 164.76,
+          "probability": 0.9896988272666931
+        },
+        {
+          "word": " got",
+          "start": 164.76,
+          "end": 164.92,
+          "probability": 0.9860068559646606
+        },
+        {
+          "word": " a",
+          "start": 164.92,
+          "end": 165.06,
+          "probability": 0.9976294636726379
+        },
+        {
+          "word": " puncture.",
+          "start": 165.06,
+          "end": 165.62,
+          "probability": 0.994823157787323
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 14844,
+      "start": 166.26,
+      "end": 167.78,
+      "text": " Um, Hagrid?",
+      "tokens": [
+        51270,
+        3301,
+        11,
+        34758,
+        8558,
+        30,
+        51370
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " Um,",
+          "start": 166.26,
+          "end": 166.82,
+          "probability": 0.022664271295070648
+        },
+        {
+          "word": " Hagrid?",
+          "start": 167.34,
+          "end": 167.78,
+          "probability": 0.9919607043266296
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 14844,
+      "start": 168.54,
+      "end": 168.88,
+      "text": " Eh?",
+      "tokens": [
+        51370,
+        9663,
+        30,
+        51420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " Eh?",
+          "start": 168.54,
+          "end": 168.88,
+          "probability": 0.008350330404937267
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 14844,
+      "start": 169.34,
+      "end": 172.22,
+      "text": " Said Hagrid, who was pulling on his huge boots.",
+      "tokens": [
+        51420,
+        26490,
+        34758,
+        8558,
+        11,
+        567,
+        390,
+        8407,
+        322,
+        702,
+        2603,
+        15194,
+        13,
+        51610
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27902264748850175,
+      "compression_ratio": 1.493212669683258,
+      "no_speech_prob": 0.010228332132101059,
+      "words": [
+        {
+          "word": " Said",
+          "start": 169.34,
+          "end": 169.66,
+          "probability": 0.4973449110984802
+        },
+        {
+          "word": " Hagrid,",
+          "start": 169.66,
+          "end": 170.04,
+          "probability": 0.9991967082023621
+        },
+        {
+          "word": " who",
+          "start": 170.4,
+          "end": 170.54,
+          "probability": 0.9974109530448914
+        },
+        {
+          "word": " was",
+          "start": 170.54,
+          "end": 170.66,
+          "probability": 0.9975715279579163
+        },
+        {
+          "word": " pulling",
+          "start": 170.66,
+          "end": 170.86,
+          "probability": 0.9984182119369507
+        },
+        {
+          "word": " on",
+          "start": 170.86,
+          "end": 171.12,
+          "probability": 0.9970768690109253
+        },
+        {
+          "word": " his",
+          "start": 171.12,
+          "end": 171.26,
+          "probability": 0.9919840693473816
+        },
+        {
+          "word": " huge",
+          "start": 171.26,
+          "end": 171.76,
+          "probability": 0.9809945225715637
+        },
+        {
+          "word": " boots.",
+          "start": 171.76,
+          "end": 172.22,
+          "probability": 0.9780791401863098
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 17222,
+      "start": 173.54000000000002,
+      "end": 179.28,
+      "text": " I haven't got any money, and you heard Uncle Vernon last night. He won't pay for me to",
+      "tokens": [
+        50410,
+        286,
+        2378,
+        380,
+        658,
+        604,
+        1460,
+        11,
+        293,
+        291,
+        2198,
+        12347,
+        47516,
+        1036,
+        1818,
+        13,
+        634,
+        1582,
+        380,
+        1689,
+        337,
+        385,
+        281,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " I",
+          "start": 173.54000000000002,
+          "end": 174.02,
+          "probability": 0.20955678820610046
+        },
+        {
+          "word": " haven't",
+          "start": 174.02,
+          "end": 174.5,
+          "probability": 0.8890039324760437
+        },
+        {
+          "word": " got",
+          "start": 174.5,
+          "end": 174.62,
+          "probability": 0.9877360463142395
+        },
+        {
+          "word": " any",
+          "start": 174.62,
+          "end": 174.84,
+          "probability": 0.9984946250915527
+        },
+        {
+          "word": " money,",
+          "start": 174.84,
+          "end": 175.14,
+          "probability": 0.9975461363792419
+        },
+        {
+          "word": " and",
+          "start": 175.72,
+          "end": 176.2,
+          "probability": 0.9934293627738953
+        },
+        {
+          "word": " you",
+          "start": 176.2,
+          "end": 176.36,
+          "probability": 0.993358314037323
+        },
+        {
+          "word": " heard",
+          "start": 176.36,
+          "end": 176.6,
+          "probability": 0.99134761095047
+        },
+        {
+          "word": " Uncle",
+          "start": 176.6,
+          "end": 176.84,
+          "probability": 0.8980643153190613
+        },
+        {
+          "word": " Vernon",
+          "start": 176.84,
+          "end": 177.12,
+          "probability": 0.990946888923645
+        },
+        {
+          "word": " last",
+          "start": 177.12,
+          "end": 177.42,
+          "probability": 0.965753436088562
+        },
+        {
+          "word": " night.",
+          "start": 177.42,
+          "end": 177.78,
+          "probability": 0.99892657995224
+        },
+        {
+          "word": " He",
+          "start": 178.4,
+          "end": 178.52,
+          "probability": 0.9822831749916077
+        },
+        {
+          "word": " won't",
+          "start": 178.52,
+          "end": 178.76,
+          "probability": 0.9961232841014862
+        },
+        {
+          "word": " pay",
+          "start": 178.76,
+          "end": 178.94,
+          "probability": 0.9982277750968933
+        },
+        {
+          "word": " for",
+          "start": 178.94,
+          "end": 179.04,
+          "probability": 0.966410219669342
+        },
+        {
+          "word": " me",
+          "start": 179.04,
+          "end": 179.16,
+          "probability": 0.9975572824478149
+        },
+        {
+          "word": " to",
+          "start": 179.16,
+          "end": 179.28,
+          "probability": 0.9973835349082947
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 17222,
+      "start": 179.28,
+      "end": 180.1,
+      "text": " go and learn magic.",
+      "tokens": [
+        50714,
+        352,
+        293,
+        1466,
+        5585,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " go",
+          "start": 179.28,
+          "end": 179.44,
+          "probability": 0.9895849823951721
+        },
+        {
+          "word": " and",
+          "start": 179.44,
+          "end": 179.56,
+          "probability": 0.964532196521759
+        },
+        {
+          "word": " learn",
+          "start": 179.56,
+          "end": 179.7,
+          "probability": 0.9982512593269348
+        },
+        {
+          "word": " magic.",
+          "start": 179.7,
+          "end": 180.1,
+          "probability": 0.9797983169555664
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 17222,
+      "start": 180.8,
+      "end": 186.06,
+      "text": " Don't worry about that, said Hagrid, standing up and scratching his head. Do you think your",
+      "tokens": [
+        50764,
+        1468,
+        380,
+        3292,
+        466,
+        300,
+        11,
+        848,
+        34758,
+        8558,
+        11,
+        4877,
+        493,
+        293,
+        29699,
+        702,
+        1378,
+        13,
+        1144,
+        291,
+        519,
+        428,
+        51054
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " Don't",
+          "start": 180.8,
+          "end": 181.28,
+          "probability": 0.5765921920537949
+        },
+        {
+          "word": " worry",
+          "start": 181.28,
+          "end": 181.56,
+          "probability": 0.9984291195869446
+        },
+        {
+          "word": " about",
+          "start": 181.56,
+          "end": 181.8,
+          "probability": 0.9989638328552246
+        },
+        {
+          "word": " that,",
+          "start": 181.8,
+          "end": 182.24,
+          "probability": 0.9970378875732422
+        },
+        {
+          "word": " said",
+          "start": 182.58,
+          "end": 182.82,
+          "probability": 0.9674486517906189
+        },
+        {
+          "word": " Hagrid,",
+          "start": 182.82,
+          "end": 183.2,
+          "probability": 0.995126485824585
+        },
+        {
+          "word": " standing",
+          "start": 183.44,
+          "end": 183.7,
+          "probability": 0.9975159168243408
+        },
+        {
+          "word": " up",
+          "start": 183.7,
+          "end": 183.96,
+          "probability": 0.9966463446617126
+        },
+        {
+          "word": " and",
+          "start": 183.96,
+          "end": 184.1,
+          "probability": 0.9533544778823853
+        },
+        {
+          "word": " scratching",
+          "start": 184.1,
+          "end": 184.44,
+          "probability": 0.996250331401825
+        },
+        {
+          "word": " his",
+          "start": 184.44,
+          "end": 184.74,
+          "probability": 0.9983718991279602
+        },
+        {
+          "word": " head.",
+          "start": 184.74,
+          "end": 184.98,
+          "probability": 0.9991018772125244
+        },
+        {
+          "word": " Do",
+          "start": 185.46,
+          "end": 185.62,
+          "probability": 0.970788300037384
+        },
+        {
+          "word": " you",
+          "start": 185.62,
+          "end": 185.72,
+          "probability": 0.9964996576309204
+        },
+        {
+          "word": " think",
+          "start": 185.72,
+          "end": 185.88,
+          "probability": 0.998271107673645
+        },
+        {
+          "word": " your",
+          "start": 185.88,
+          "end": 186.06,
+          "probability": 0.9918922185897827
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 17222,
+      "start": 186.06,
+      "end": 187.3,
+      "text": " parents didn't leave you anything?",
+      "tokens": [
+        51054,
+        3152,
+        994,
+        380,
+        1856,
+        291,
+        1340,
+        30,
+        51180
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " parents",
+          "start": 186.06,
+          "end": 186.42,
+          "probability": 0.9868314266204834
+        },
+        {
+          "word": " didn't",
+          "start": 186.42,
+          "end": 186.68,
+          "probability": 0.9974527060985565
+        },
+        {
+          "word": " leave",
+          "start": 186.68,
+          "end": 186.88,
+          "probability": 0.9977861642837524
+        },
+        {
+          "word": " you",
+          "start": 186.88,
+          "end": 187.06,
+          "probability": 0.9921377301216125
+        },
+        {
+          "word": " anything?",
+          "start": 187.06,
+          "end": 187.3,
+          "probability": 0.7823565006256104
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 17222,
+      "start": 188.14,
+      "end": 194.66,
+      "text": " But if their house was destroyed, they didn't keep their gold in the house, boy. Nah, first",
+      "tokens": [
+        51180,
+        583,
+        498,
+        641,
+        1782,
+        390,
+        8937,
+        11,
+        436,
+        994,
+        380,
+        1066,
+        641,
+        3821,
+        294,
+        264,
+        1782,
+        11,
+        3237,
+        13,
+        13933,
+        11,
+        700,
+        51488
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " But",
+          "start": 188.14,
+          "end": 188.6,
+          "probability": 0.9807935953140259
+        },
+        {
+          "word": " if",
+          "start": 188.6,
+          "end": 188.82,
+          "probability": 0.9485313296318054
+        },
+        {
+          "word": " their",
+          "start": 188.82,
+          "end": 189.0,
+          "probability": 0.6586037278175354
+        },
+        {
+          "word": " house",
+          "start": 189.0,
+          "end": 189.3,
+          "probability": 0.9988738894462585
+        },
+        {
+          "word": " was",
+          "start": 189.3,
+          "end": 189.5,
+          "probability": 0.9970837235450745
+        },
+        {
+          "word": " destroyed,",
+          "start": 189.5,
+          "end": 190.16,
+          "probability": 0.9880859851837158
+        },
+        {
+          "word": " they",
+          "start": 190.98,
+          "end": 191.3,
+          "probability": 0.9652602672576904
+        },
+        {
+          "word": " didn't",
+          "start": 191.3,
+          "end": 191.58,
+          "probability": 0.9863493740558624
+        },
+        {
+          "word": " keep",
+          "start": 191.58,
+          "end": 191.78,
+          "probability": 0.9978638291358948
+        },
+        {
+          "word": " their",
+          "start": 191.78,
+          "end": 191.98,
+          "probability": 0.9927512407302856
+        },
+        {
+          "word": " gold",
+          "start": 191.98,
+          "end": 192.28,
+          "probability": 0.9976521134376526
+        },
+        {
+          "word": " in",
+          "start": 192.28,
+          "end": 192.46,
+          "probability": 0.9466471672058105
+        },
+        {
+          "word": " the",
+          "start": 192.46,
+          "end": 192.58,
+          "probability": 0.9767099022865295
+        },
+        {
+          "word": " house,",
+          "start": 192.58,
+          "end": 192.88,
+          "probability": 0.9961408972740173
+        },
+        {
+          "word": " boy.",
+          "start": 193.0,
+          "end": 193.26,
+          "probability": 0.9732403755187988
+        },
+        {
+          "word": " Nah,",
+          "start": 193.76,
+          "end": 194.0,
+          "probability": 0.7510585784912109
+        },
+        {
+          "word": " first",
+          "start": 194.38,
+          "end": 194.66,
+          "probability": 0.9661497473716736
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 17222,
+      "start": 194.66,
+      "end": 199.86,
+      "text": " stop for us is Gringots, wizard's bank. Have a sausage, they're not bad gold, and I wouldn't",
+      "tokens": [
+        51488,
+        1590,
+        337,
+        505,
+        307,
+        2606,
+        278,
+        1971,
+        11,
+        25807,
+        311,
+        3765,
+        13,
+        3560,
+        257,
+        20526,
+        11,
+        436,
+        434,
+        406,
+        1578,
+        3821,
+        11,
+        293,
+        286,
+        2759,
+        380,
+        51744
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20510464855748364,
+      "compression_ratio": 1.5773584905660378,
+      "no_speech_prob": 0.039734065532684326,
+      "words": [
+        {
+          "word": " stop",
+          "start": 194.66,
+          "end": 194.92,
+          "probability": 0.9460186958312988
+        },
+        {
+          "word": " for",
+          "start": 194.92,
+          "end": 195.08,
+          "probability": 0.992493748664856
+        },
+        {
+          "word": " us",
+          "start": 195.08,
+          "end": 195.24,
+          "probability": 0.9960124492645264
+        },
+        {
+          "word": " is",
+          "start": 195.24,
+          "end": 195.4,
+          "probability": 0.98797208070755
+        },
+        {
+          "word": " Gringots,",
+          "start": 195.4,
+          "end": 195.9,
+          "probability": 0.7964606285095215
+        },
+        {
+          "word": " wizard's",
+          "start": 196.36,
+          "end": 196.88,
+          "probability": 0.6295298784971237
+        },
+        {
+          "word": " bank.",
+          "start": 196.88,
+          "end": 197.06,
+          "probability": 0.9940240979194641
+        },
+        {
+          "word": " Have",
+          "start": 197.6,
+          "end": 197.72,
+          "probability": 0.993621289730072
+        },
+        {
+          "word": " a",
+          "start": 197.72,
+          "end": 197.84,
+          "probability": 0.9905903339385986
+        },
+        {
+          "word": " sausage,",
+          "start": 197.84,
+          "end": 198.06,
+          "probability": 0.9985080361366272
+        },
+        {
+          "word": " they're",
+          "start": 198.32,
+          "end": 198.48,
+          "probability": 0.9246641993522644
+        },
+        {
+          "word": " not",
+          "start": 198.48,
+          "end": 198.54,
+          "probability": 0.9798750281333923
+        },
+        {
+          "word": " bad",
+          "start": 198.54,
+          "end": 198.76,
+          "probability": 0.8933860063552856
+        },
+        {
+          "word": " gold,",
+          "start": 198.76,
+          "end": 199.1,
+          "probability": 0.7571365833282471
+        },
+        {
+          "word": " and",
+          "start": 199.32,
+          "end": 199.56,
+          "probability": 0.9953221678733826
+        },
+        {
+          "word": " I",
+          "start": 199.56,
+          "end": 199.66,
+          "probability": 0.996355414390564
+        },
+        {
+          "word": " wouldn't",
+          "start": 199.66,
+          "end": 199.86,
+          "probability": 0.9972696304321289
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 19986,
+      "start": 199.86,
+      "end": 201.6,
+      "text": " say no to a bit of your birthday cake neither.",
+      "tokens": [
+        50368,
+        584,
+        572,
+        281,
+        257,
+        857,
+        295,
+        428,
+        6154,
+        5908,
+        9662,
+        13,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " say",
+          "start": 199.86,
+          "end": 200.04,
+          "probability": 0.5460872650146484
+        },
+        {
+          "word": " no",
+          "start": 200.04,
+          "end": 200.2,
+          "probability": 0.9558749198913574
+        },
+        {
+          "word": " to",
+          "start": 200.2,
+          "end": 200.34,
+          "probability": 0.974609375
+        },
+        {
+          "word": " a",
+          "start": 200.34,
+          "end": 200.44,
+          "probability": 0.9799801111221313
+        },
+        {
+          "word": " bit",
+          "start": 200.44,
+          "end": 200.52,
+          "probability": 0.9618357419967651
+        },
+        {
+          "word": " of",
+          "start": 200.52,
+          "end": 200.64,
+          "probability": 0.7842599749565125
+        },
+        {
+          "word": " your",
+          "start": 200.64,
+          "end": 200.74,
+          "probability": 0.9930558800697327
+        },
+        {
+          "word": " birthday",
+          "start": 200.74,
+          "end": 200.98,
+          "probability": 0.9598217606544495
+        },
+        {
+          "word": " cake",
+          "start": 200.98,
+          "end": 201.32,
+          "probability": 0.8213587999343872
+        },
+        {
+          "word": " neither.",
+          "start": 201.32,
+          "end": 201.6,
+          "probability": 0.5353620648384094
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 19986,
+      "start": 202.64000000000001,
+      "end": 209.48,
+      "text": " Wizards have banks. Just the one, Gringots, run by Goblins. Harry dropped the bit of",
+      "tokens": [
+        50524,
+        43490,
+        2287,
+        362,
+        10237,
+        13,
+        1449,
+        264,
+        472,
+        11,
+        2606,
+        278,
+        1971,
+        11,
+        1190,
+        538,
+        24287,
+        49682,
+        13,
+        9378,
+        8119,
+        264,
+        857,
+        295,
+        50844
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " Wizards",
+          "start": 202.64000000000001,
+          "end": 203.08,
+          "probability": 0.6815712153911591
+        },
+        {
+          "word": " have",
+          "start": 203.08,
+          "end": 203.3,
+          "probability": 0.9916736483573914
+        },
+        {
+          "word": " banks.",
+          "start": 203.3,
+          "end": 203.86,
+          "probability": 0.9169616103172302
+        },
+        {
+          "word": " Just",
+          "start": 204.64,
+          "end": 204.88,
+          "probability": 0.9269827604293823
+        },
+        {
+          "word": " the",
+          "start": 204.88,
+          "end": 205.04,
+          "probability": 0.9871009588241577
+        },
+        {
+          "word": " one,",
+          "start": 205.04,
+          "end": 205.22,
+          "probability": 0.9964981079101562
+        },
+        {
+          "word": " Gringots,",
+          "start": 205.66,
+          "end": 205.98,
+          "probability": 0.7946572502454122
+        },
+        {
+          "word": " run",
+          "start": 206.44,
+          "end": 206.6,
+          "probability": 0.9879944324493408
+        },
+        {
+          "word": " by",
+          "start": 206.6,
+          "end": 206.8,
+          "probability": 0.9856454730033875
+        },
+        {
+          "word": " Goblins.",
+          "start": 206.8,
+          "end": 207.2,
+          "probability": 0.8478109538555145
+        },
+        {
+          "word": " Harry",
+          "start": 208.02,
+          "end": 208.38,
+          "probability": 0.9727687239646912
+        },
+        {
+          "word": " dropped",
+          "start": 208.38,
+          "end": 209.02,
+          "probability": 0.9925935864448547
+        },
+        {
+          "word": " the",
+          "start": 209.02,
+          "end": 209.24,
+          "probability": 0.9429401755332947
+        },
+        {
+          "word": " bit",
+          "start": 209.24,
+          "end": 209.36,
+          "probability": 0.9917348623275757
+        },
+        {
+          "word": " of",
+          "start": 209.36,
+          "end": 209.48,
+          "probability": 0.9992737174034119
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 19986,
+      "start": 209.48,
+      "end": 210.36,
+      "text": " sausage he was holding.",
+      "tokens": [
+        50844,
+        20526,
+        415,
+        390,
+        5061,
+        13,
+        50924
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " sausage",
+          "start": 209.48,
+          "end": 209.72,
+          "probability": 0.9885739088058472
+        },
+        {
+          "word": " he",
+          "start": 209.72,
+          "end": 209.96,
+          "probability": 0.9964942336082458
+        },
+        {
+          "word": " was",
+          "start": 209.96,
+          "end": 210.08,
+          "probability": 0.9990229606628418
+        },
+        {
+          "word": " holding.",
+          "start": 210.08,
+          "end": 210.36,
+          "probability": 0.9984294772148132
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 19986,
+      "start": 211.34,
+      "end": 216.34,
+      "text": " Goblins? Yeah, so you'd be mad to try and rob it, I'll tell you that. Never a mess with",
+      "tokens": [
+        50924,
+        24287,
+        49682,
+        30,
+        865,
+        11,
+        370,
+        291,
+        1116,
+        312,
+        5244,
+        281,
+        853,
+        293,
+        3870,
+        309,
+        11,
+        286,
+        603,
+        980,
+        291,
+        300,
+        13,
+        7344,
+        257,
+        2082,
+        365,
+        51188
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " Goblins?",
+          "start": 211.34,
+          "end": 211.78,
+          "probability": 0.675472304224968
+        },
+        {
+          "word": " Yeah,",
+          "start": 212.6,
+          "end": 212.98,
+          "probability": 0.8175928592681885
+        },
+        {
+          "word": " so",
+          "start": 213.14,
+          "end": 213.3,
+          "probability": 0.9857792854309082
+        },
+        {
+          "word": " you'd",
+          "start": 213.3,
+          "end": 213.46,
+          "probability": 0.7392276972532272
+        },
+        {
+          "word": " be",
+          "start": 213.46,
+          "end": 213.54,
+          "probability": 0.9922789335250854
+        },
+        {
+          "word": " mad",
+          "start": 213.54,
+          "end": 213.74,
+          "probability": 0.9953983426094055
+        },
+        {
+          "word": " to",
+          "start": 213.74,
+          "end": 213.88,
+          "probability": 0.9346514344215393
+        },
+        {
+          "word": " try",
+          "start": 213.88,
+          "end": 214.02,
+          "probability": 0.9506308436393738
+        },
+        {
+          "word": " and",
+          "start": 214.02,
+          "end": 214.16,
+          "probability": 0.9852425456047058
+        },
+        {
+          "word": " rob",
+          "start": 214.16,
+          "end": 214.28,
+          "probability": 0.9776419401168823
+        },
+        {
+          "word": " it,",
+          "start": 214.28,
+          "end": 214.42,
+          "probability": 0.997071385383606
+        },
+        {
+          "word": " I'll",
+          "start": 214.56,
+          "end": 214.66,
+          "probability": 0.9733064472675323
+        },
+        {
+          "word": " tell",
+          "start": 214.66,
+          "end": 214.82,
+          "probability": 0.9984439015388489
+        },
+        {
+          "word": " you",
+          "start": 214.82,
+          "end": 214.9,
+          "probability": 0.9219908118247986
+        },
+        {
+          "word": " that.",
+          "start": 214.9,
+          "end": 215.08,
+          "probability": 0.9965331554412842
+        },
+        {
+          "word": " Never",
+          "start": 215.64,
+          "end": 215.88,
+          "probability": 0.983221173286438
+        },
+        {
+          "word": " a",
+          "start": 215.88,
+          "end": 216.02,
+          "probability": 0.6908919811248779
+        },
+        {
+          "word": " mess",
+          "start": 216.02,
+          "end": 216.12,
+          "probability": 0.9994363188743591
+        },
+        {
+          "word": " with",
+          "start": 216.12,
+          "end": 216.34,
+          "probability": 0.9983262419700623
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 19986,
+      "start": 216.34,
+      "end": 220.36,
+      "text": " Goblins, Harry. Gringots is the safest place in the world for anything you want to keep",
+      "tokens": [
+        51188,
+        24287,
+        49682,
+        11,
+        9378,
+        13,
+        2606,
+        278,
+        1971,
+        307,
+        264,
+        37558,
+        1081,
+        294,
+        264,
+        1002,
+        337,
+        1340,
+        291,
+        528,
+        281,
+        1066,
+        51400
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " Goblins,",
+          "start": 216.34,
+          "end": 216.8,
+          "probability": 0.8235996663570404
+        },
+        {
+          "word": " Harry.",
+          "start": 216.92,
+          "end": 217.06,
+          "probability": 0.9974002838134766
+        },
+        {
+          "word": " Gringots",
+          "start": 217.38,
+          "end": 217.8,
+          "probability": 0.9953105449676514
+        },
+        {
+          "word": " is",
+          "start": 217.8,
+          "end": 218.06,
+          "probability": 0.9975033402442932
+        },
+        {
+          "word": " the",
+          "start": 218.06,
+          "end": 218.2,
+          "probability": 0.9979735016822815
+        },
+        {
+          "word": " safest",
+          "start": 218.2,
+          "end": 218.58,
+          "probability": 0.9957407712936401
+        },
+        {
+          "word": " place",
+          "start": 218.58,
+          "end": 218.9,
+          "probability": 0.999382495880127
+        },
+        {
+          "word": " in",
+          "start": 218.9,
+          "end": 219.12,
+          "probability": 0.998651921749115
+        },
+        {
+          "word": " the",
+          "start": 219.12,
+          "end": 219.2,
+          "probability": 0.9984392523765564
+        },
+        {
+          "word": " world",
+          "start": 219.2,
+          "end": 219.42,
+          "probability": 0.9967551827430725
+        },
+        {
+          "word": " for",
+          "start": 219.42,
+          "end": 219.6,
+          "probability": 0.90428227186203
+        },
+        {
+          "word": " anything",
+          "start": 219.6,
+          "end": 219.84,
+          "probability": 0.9958652257919312
+        },
+        {
+          "word": " you",
+          "start": 219.84,
+          "end": 220.06,
+          "probability": 0.9956346154212952
+        },
+        {
+          "word": " want",
+          "start": 220.06,
+          "end": 220.16,
+          "probability": 0.9228417873382568
+        },
+        {
+          "word": " to",
+          "start": 220.16,
+          "end": 220.26,
+          "probability": 0.9982654452323914
+        },
+        {
+          "word": " keep",
+          "start": 220.26,
+          "end": 220.36,
+          "probability": 0.9987766146659851
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 19986,
+      "start": 220.36,
+      "end": 225.76,
+      "text": " safe. Set maybe Hogwarts. As a matter of fact, I gotta visit Gringots anyway, for Dumbledore,",
+      "tokens": [
+        51400,
+        3273,
+        13,
+        8928,
+        1310,
+        46539,
+        13,
+        1018,
+        257,
+        1871,
+        295,
+        1186,
+        11,
+        286,
+        3428,
+        3441,
+        2606,
+        278,
+        1971,
+        4033,
+        11,
+        337,
+        413,
+        19928,
+        418,
+        11,
+        51686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21700637817382812,
+      "compression_ratio": 1.5625,
+      "no_speech_prob": 0.025213951244950294,
+      "words": [
+        {
+          "word": " safe.",
+          "start": 220.36,
+          "end": 220.7,
+          "probability": 0.9984822869300842
+        },
+        {
+          "word": " Set",
+          "start": 221.06,
+          "end": 221.28,
+          "probability": 0.8276146054267883
+        },
+        {
+          "word": " maybe",
+          "start": 221.28,
+          "end": 221.48,
+          "probability": 0.5932462811470032
+        },
+        {
+          "word": " Hogwarts.",
+          "start": 221.48,
+          "end": 221.82,
+          "probability": 0.9501082897186279
+        },
+        {
+          "word": " As",
+          "start": 222.6,
+          "end": 222.76,
+          "probability": 0.9937944412231445
+        },
+        {
+          "word": " a",
+          "start": 222.76,
+          "end": 222.84,
+          "probability": 0.9991602897644043
+        },
+        {
+          "word": " matter",
+          "start": 222.84,
+          "end": 222.98,
+          "probability": 0.9993528723716736
+        },
+        {
+          "word": " of",
+          "start": 222.98,
+          "end": 223.16,
+          "probability": 0.9871248602867126
+        },
+        {
+          "word": " fact,",
+          "start": 223.16,
+          "end": 223.38,
+          "probability": 0.9997743964195251
+        },
+        {
+          "word": " I",
+          "start": 223.46,
+          "end": 223.56,
+          "probability": 0.994796097278595
+        },
+        {
+          "word": " gotta",
+          "start": 223.56,
+          "end": 223.7,
+          "probability": 0.2719404101371765
+        },
+        {
+          "word": " visit",
+          "start": 223.7,
+          "end": 223.94,
+          "probability": 0.9965839385986328
+        },
+        {
+          "word": " Gringots",
+          "start": 223.94,
+          "end": 224.36,
+          "probability": 0.9908506274223328
+        },
+        {
+          "word": " anyway,",
+          "start": 224.36,
+          "end": 224.68,
+          "probability": 0.87189120054245
+        },
+        {
+          "word": " for",
+          "start": 225.14,
+          "end": 225.26,
+          "probability": 0.9927092790603638
+        },
+        {
+          "word": " Dumbledore,",
+          "start": 225.26,
+          "end": 225.76,
+          "probability": 0.9952568809191386
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 22576,
+      "start": 225.76,
+      "end": 227.1,
+      "text": " Hogwarts business.",
+      "tokens": [
+        50376,
+        46539,
+        1606,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " Hogwarts",
+          "start": 225.76,
+          "end": 226.42,
+          "probability": 0.10633828490972519
+        },
+        {
+          "word": " business.",
+          "start": 226.42,
+          "end": 227.1,
+          "probability": 0.5598886609077454
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 22576,
+      "start": 227.84,
+      "end": 229.64,
+      "text": " Hagrid drew himself up proudly.",
+      "tokens": [
+        50476,
+        34758,
+        8558,
+        12804,
+        3647,
+        493,
+        33522,
+        13,
+        50576
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " Hagrid",
+          "start": 227.84,
+          "end": 228.36,
+          "probability": 0.9827290177345276
+        },
+        {
+          "word": " drew",
+          "start": 228.36,
+          "end": 228.64,
+          "probability": 0.9958900809288025
+        },
+        {
+          "word": " himself",
+          "start": 228.64,
+          "end": 228.94,
+          "probability": 0.9977217316627502
+        },
+        {
+          "word": " up",
+          "start": 228.94,
+          "end": 229.2,
+          "probability": 0.9952012300491333
+        },
+        {
+          "word": " proudly.",
+          "start": 229.2,
+          "end": 229.64,
+          "probability": 0.9286107420921326
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 22576,
+      "start": 230.18,
+      "end": 234.96,
+      "text": " He usually gets me to do important stuff for him. Fetching you, getting things from Gringots,",
+      "tokens": [
+        50576,
+        634,
+        2673,
+        2170,
+        385,
+        281,
+        360,
+        1021,
+        1507,
+        337,
+        796,
+        13,
+        479,
+        7858,
+        278,
+        291,
+        11,
+        1242,
+        721,
+        490,
+        2606,
+        278,
+        1971,
+        11,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " He",
+          "start": 230.18,
+          "end": 230.32,
+          "probability": 0.0811915248632431
+        },
+        {
+          "word": " usually",
+          "start": 230.32,
+          "end": 230.68,
+          "probability": 0.9929227828979492
+        },
+        {
+          "word": " gets",
+          "start": 230.68,
+          "end": 230.9,
+          "probability": 0.9947205781936646
+        },
+        {
+          "word": " me",
+          "start": 230.9,
+          "end": 231.06,
+          "probability": 0.994274914264679
+        },
+        {
+          "word": " to",
+          "start": 231.06,
+          "end": 231.22,
+          "probability": 0.9939252734184265
+        },
+        {
+          "word": " do",
+          "start": 231.22,
+          "end": 231.34,
+          "probability": 0.9970567226409912
+        },
+        {
+          "word": " important",
+          "start": 231.34,
+          "end": 231.68,
+          "probability": 0.99481600522995
+        },
+        {
+          "word": " stuff",
+          "start": 231.68,
+          "end": 231.96,
+          "probability": 0.9952923059463501
+        },
+        {
+          "word": " for",
+          "start": 231.96,
+          "end": 232.2,
+          "probability": 0.9962413311004639
+        },
+        {
+          "word": " him.",
+          "start": 232.2,
+          "end": 232.32,
+          "probability": 0.9971047043800354
+        },
+        {
+          "word": " Fetching",
+          "start": 232.86,
+          "end": 233.28,
+          "probability": 0.9021991689999899
+        },
+        {
+          "word": " you,",
+          "start": 233.28,
+          "end": 233.5,
+          "probability": 0.9879269003868103
+        },
+        {
+          "word": " getting",
+          "start": 233.92,
+          "end": 234.1,
+          "probability": 0.98311847448349
+        },
+        {
+          "word": " things",
+          "start": 234.1,
+          "end": 234.38,
+          "probability": 0.9964826107025146
+        },
+        {
+          "word": " from",
+          "start": 234.38,
+          "end": 234.54,
+          "probability": 0.9980555772781372
+        },
+        {
+          "word": " Gringots,",
+          "start": 234.54,
+          "end": 234.96,
+          "probability": 0.7456322908401489
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 22576,
+      "start": 235.32,
+      "end": 239.24,
+      "text": " knows he can trust me, see? Got everything? Come on then.",
+      "tokens": [
+        50840,
+        3255,
+        415,
+        393,
+        3361,
+        385,
+        11,
+        536,
+        30,
+        5803,
+        1203,
+        30,
+        2492,
+        322,
+        550,
+        13,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " knows",
+          "start": 235.32,
+          "end": 235.64,
+          "probability": 0.9937921166419983
+        },
+        {
+          "word": " he",
+          "start": 235.64,
+          "end": 235.78,
+          "probability": 0.9831872582435608
+        },
+        {
+          "word": " can",
+          "start": 235.78,
+          "end": 235.94,
+          "probability": 0.9928709864616394
+        },
+        {
+          "word": " trust",
+          "start": 235.94,
+          "end": 236.24,
+          "probability": 0.997849702835083
+        },
+        {
+          "word": " me,",
+          "start": 236.24,
+          "end": 236.46,
+          "probability": 0.9987285733222961
+        },
+        {
+          "word": " see?",
+          "start": 236.58,
+          "end": 236.74,
+          "probability": 0.9860742688179016
+        },
+        {
+          "word": " Got",
+          "start": 237.6,
+          "end": 237.86,
+          "probability": 0.9228410720825195
+        },
+        {
+          "word": " everything?",
+          "start": 237.86,
+          "end": 238.0,
+          "probability": 0.3132961094379425
+        },
+        {
+          "word": " Come",
+          "start": 238.66,
+          "end": 238.88,
+          "probability": 0.9176271557807922
+        },
+        {
+          "word": " on",
+          "start": 238.88,
+          "end": 239.1,
+          "probability": 0.9867604970932007
+        },
+        {
+          "word": " then.",
+          "start": 239.1,
+          "end": 239.24,
+          "probability": 0.3848647475242615
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 22576,
+      "start": 240.22,
+      "end": 246.08,
+      "text": " Harry followed Hagrid out onto the rock. The sky was quite clear now, and the sea gleamed",
+      "tokens": [
+        51096,
+        9378,
+        6263,
+        34758,
+        8558,
+        484,
+        3911,
+        264,
+        3727,
+        13,
+        440,
+        5443,
+        390,
+        1596,
+        1850,
+        586,
+        11,
+        293,
+        264,
+        4158,
+        48956,
+        3475,
+        51376
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " Harry",
+          "start": 240.22,
+          "end": 240.74,
+          "probability": 0.9425504803657532
+        },
+        {
+          "word": " followed",
+          "start": 240.74,
+          "end": 241.14,
+          "probability": 0.9965348243713379
+        },
+        {
+          "word": " Hagrid",
+          "start": 241.14,
+          "end": 241.54,
+          "probability": 0.998986542224884
+        },
+        {
+          "word": " out",
+          "start": 241.54,
+          "end": 241.78,
+          "probability": 0.9987000226974487
+        },
+        {
+          "word": " onto",
+          "start": 241.78,
+          "end": 242.04,
+          "probability": 0.874518871307373
+        },
+        {
+          "word": " the",
+          "start": 242.04,
+          "end": 242.16,
+          "probability": 0.997858464717865
+        },
+        {
+          "word": " rock.",
+          "start": 242.16,
+          "end": 242.38,
+          "probability": 0.9642479419708252
+        },
+        {
+          "word": " The",
+          "start": 243.02,
+          "end": 243.22,
+          "probability": 0.9977673292160034
+        },
+        {
+          "word": " sky",
+          "start": 243.22,
+          "end": 243.54,
+          "probability": 0.9990347623825073
+        },
+        {
+          "word": " was",
+          "start": 243.54,
+          "end": 243.78,
+          "probability": 0.9984135627746582
+        },
+        {
+          "word": " quite",
+          "start": 243.78,
+          "end": 244.02,
+          "probability": 0.9947530031204224
+        },
+        {
+          "word": " clear",
+          "start": 244.02,
+          "end": 244.38,
+          "probability": 0.9991968274116516
+        },
+        {
+          "word": " now,",
+          "start": 244.38,
+          "end": 244.62,
+          "probability": 0.9646785259246826
+        },
+        {
+          "word": " and",
+          "start": 244.84,
+          "end": 245.02,
+          "probability": 0.996243953704834
+        },
+        {
+          "word": " the",
+          "start": 245.02,
+          "end": 245.14,
+          "probability": 0.998478353023529
+        },
+        {
+          "word": " sea",
+          "start": 245.14,
+          "end": 245.44,
+          "probability": 0.9976720213890076
+        },
+        {
+          "word": " gleamed",
+          "start": 245.44,
+          "end": 246.08,
+          "probability": 0.9922156929969788
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 22576,
+      "start": 246.08,
+      "end": 250.76,
+      "text": " in the sunlight. The boat Uncle Vernon had hired was still there, with a lot of water",
+      "tokens": [
+        51376,
+        294,
+        264,
+        18379,
+        13,
+        440,
+        6582,
+        12347,
+        47516,
+        632,
+        13144,
+        390,
+        920,
+        456,
+        11,
+        365,
+        257,
+        688,
+        295,
+        1281,
+        51616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17124133016548904,
+      "compression_ratio": 1.5491803278688525,
+      "no_speech_prob": 0.00669844402000308,
+      "words": [
+        {
+          "word": " in",
+          "start": 246.08,
+          "end": 246.22,
+          "probability": 0.9972207546234131
+        },
+        {
+          "word": " the",
+          "start": 246.22,
+          "end": 246.34,
+          "probability": 0.9957299828529358
+        },
+        {
+          "word": " sunlight.",
+          "start": 246.34,
+          "end": 246.64,
+          "probability": 0.9921121597290039
+        },
+        {
+          "word": " The",
+          "start": 247.26,
+          "end": 247.48,
+          "probability": 0.9975962042808533
+        },
+        {
+          "word": " boat",
+          "start": 247.48,
+          "end": 247.74,
+          "probability": 0.9981648325920105
+        },
+        {
+          "word": " Uncle",
+          "start": 247.74,
+          "end": 248.12,
+          "probability": 0.4756229817867279
+        },
+        {
+          "word": " Vernon",
+          "start": 248.12,
+          "end": 248.42,
+          "probability": 0.9720221161842346
+        },
+        {
+          "word": " had",
+          "start": 248.42,
+          "end": 248.7,
+          "probability": 0.9959838390350342
+        },
+        {
+          "word": " hired",
+          "start": 248.7,
+          "end": 249.02,
+          "probability": 0.9888626337051392
+        },
+        {
+          "word": " was",
+          "start": 249.02,
+          "end": 249.24,
+          "probability": 0.9907177090644836
+        },
+        {
+          "word": " still",
+          "start": 249.24,
+          "end": 249.5,
+          "probability": 0.99708491563797
+        },
+        {
+          "word": " there,",
+          "start": 249.5,
+          "end": 249.82,
+          "probability": 0.9990900754928589
+        },
+        {
+          "word": " with",
+          "start": 250.02,
+          "end": 250.22,
+          "probability": 0.9979866743087769
+        },
+        {
+          "word": " a",
+          "start": 250.22,
+          "end": 250.32,
+          "probability": 0.985076367855072
+        },
+        {
+          "word": " lot",
+          "start": 250.32,
+          "end": 250.42,
+          "probability": 0.9980564713478088
+        },
+        {
+          "word": " of",
+          "start": 250.42,
+          "end": 250.56,
+          "probability": 0.9969639182090759
+        },
+        {
+          "word": " water",
+          "start": 250.56,
+          "end": 250.76,
+          "probability": 0.997686505317688
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 25076,
+      "start": 250.76,
+      "end": 252.1,
+      "text": " in the bottom after the storm.",
+      "tokens": [
+        50368,
+        294,
+        264,
+        2767,
+        934,
+        264,
+        7679,
+        13,
+        50432
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " in",
+          "start": 250.76,
+          "end": 250.98,
+          "probability": 0.8856202363967896
+        },
+        {
+          "word": " the",
+          "start": 250.98,
+          "end": 251.06,
+          "probability": 0.9972972273826599
+        },
+        {
+          "word": " bottom",
+          "start": 251.06,
+          "end": 251.28,
+          "probability": 0.9974526762962341
+        },
+        {
+          "word": " after",
+          "start": 251.28,
+          "end": 251.58,
+          "probability": 0.9512213468551636
+        },
+        {
+          "word": " the",
+          "start": 251.58,
+          "end": 251.78,
+          "probability": 0.9984052777290344
+        },
+        {
+          "word": " storm.",
+          "start": 251.78,
+          "end": 252.1,
+          "probability": 0.9972730278968811
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 25076,
+      "start": 252.98000000000002,
+      "end": 256.6,
+      "text": " How did you get here? Harry asked, looking around for another boat.",
+      "tokens": [
+        50484,
+        1012,
+        630,
+        291,
+        483,
+        510,
+        30,
+        9378,
+        2351,
+        11,
+        1237,
+        926,
+        337,
+        1071,
+        6582,
+        13,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " How",
+          "start": 252.98000000000002,
+          "end": 253.46,
+          "probability": 0.042166173458099365
+        },
+        {
+          "word": " did",
+          "start": 253.46,
+          "end": 253.62,
+          "probability": 0.9930604696273804
+        },
+        {
+          "word": " you",
+          "start": 253.62,
+          "end": 253.76,
+          "probability": 0.9968215227127075
+        },
+        {
+          "word": " get",
+          "start": 253.76,
+          "end": 253.94,
+          "probability": 0.998894989490509
+        },
+        {
+          "word": " here?",
+          "start": 253.94,
+          "end": 254.26,
+          "probability": 0.9960773587226868
+        },
+        {
+          "word": " Harry",
+          "start": 254.5,
+          "end": 254.76,
+          "probability": 0.907853901386261
+        },
+        {
+          "word": " asked,",
+          "start": 254.76,
+          "end": 255.12,
+          "probability": 0.9935598373413086
+        },
+        {
+          "word": " looking",
+          "start": 255.4,
+          "end": 255.54,
+          "probability": 0.9980423450469971
+        },
+        {
+          "word": " around",
+          "start": 255.54,
+          "end": 255.88,
+          "probability": 0.9450620412826538
+        },
+        {
+          "word": " for",
+          "start": 255.88,
+          "end": 256.06,
+          "probability": 0.996479332447052
+        },
+        {
+          "word": " another",
+          "start": 256.06,
+          "end": 256.3,
+          "probability": 0.9986182451248169
+        },
+        {
+          "word": " boat.",
+          "start": 256.3,
+          "end": 256.6,
+          "probability": 0.9961016178131104
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 25076,
+      "start": 257.09999999999997,
+      "end": 258.66,
+      "text": " Flu? said Hagrid.",
+      "tokens": [
+        50688,
+        33612,
+        30,
+        848,
+        34758,
+        8558,
+        13,
+        50784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " Flu?",
+          "start": 257.09999999999997,
+          "end": 257.58,
+          "probability": 0.00960302259773016
+        },
+        {
+          "word": " said",
+          "start": 257.96,
+          "end": 258.38,
+          "probability": 0.9028947353363037
+        },
+        {
+          "word": " Hagrid.",
+          "start": 258.38,
+          "end": 258.66,
+          "probability": 0.9936536550521851
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 25076,
+      "start": 259.08,
+      "end": 263.88,
+      "text": " Flu? Yeah, but we'll go back in this. Not supposed to use magic. Now I've got you.",
+      "tokens": [
+        50784,
+        33612,
+        30,
+        865,
+        11,
+        457,
+        321,
+        603,
+        352,
+        646,
+        294,
+        341,
+        13,
+        1726,
+        3442,
+        281,
+        764,
+        5585,
+        13,
+        823,
+        286,
+        600,
+        658,
+        291,
+        13,
+        51020
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " Flu?",
+          "start": 259.08,
+          "end": 259.5,
+          "probability": 0.9804312586784363
+        },
+        {
+          "word": " Yeah,",
+          "start": 260.4,
+          "end": 260.88,
+          "probability": 0.3611515164375305
+        },
+        {
+          "word": " but",
+          "start": 260.9,
+          "end": 261.08,
+          "probability": 0.9972226619720459
+        },
+        {
+          "word": " we'll",
+          "start": 261.08,
+          "end": 261.3,
+          "probability": 0.9887569546699524
+        },
+        {
+          "word": " go",
+          "start": 261.3,
+          "end": 261.44,
+          "probability": 0.9968281388282776
+        },
+        {
+          "word": " back",
+          "start": 261.44,
+          "end": 261.64,
+          "probability": 0.9983489513397217
+        },
+        {
+          "word": " in",
+          "start": 261.64,
+          "end": 261.8,
+          "probability": 0.9938772320747375
+        },
+        {
+          "word": " this.",
+          "start": 261.8,
+          "end": 262.0,
+          "probability": 0.995826780796051
+        },
+        {
+          "word": " Not",
+          "start": 262.2,
+          "end": 262.44,
+          "probability": 0.8591119647026062
+        },
+        {
+          "word": " supposed",
+          "start": 262.44,
+          "end": 262.68,
+          "probability": 0.9217891097068787
+        },
+        {
+          "word": " to",
+          "start": 262.68,
+          "end": 262.88,
+          "probability": 0.998117208480835
+        },
+        {
+          "word": " use",
+          "start": 262.88,
+          "end": 263.02,
+          "probability": 0.9990215301513672
+        },
+        {
+          "word": " magic.",
+          "start": 263.02,
+          "end": 263.28,
+          "probability": 0.9926757216453552
+        },
+        {
+          "word": " Now",
+          "start": 263.4,
+          "end": 263.5,
+          "probability": 0.9552268981933594
+        },
+        {
+          "word": " I've",
+          "start": 263.5,
+          "end": 263.66,
+          "probability": 0.8498088419437408
+        },
+        {
+          "word": " got",
+          "start": 263.66,
+          "end": 263.76,
+          "probability": 0.9990725517272949
+        },
+        {
+          "word": " you.",
+          "start": 263.76,
+          "end": 263.88,
+          "probability": 0.7749061584472656
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 25076,
+      "start": 264.7,
+      "end": 270.72,
+      "text": " They settled down in the boat. Harry still staring at Hagrid, trying to imagine him flying.",
+      "tokens": [
+        51072,
+        814,
+        14819,
+        760,
+        294,
+        264,
+        6582,
+        13,
+        9378,
+        920,
+        18043,
+        412,
+        34758,
+        8558,
+        11,
+        1382,
+        281,
+        3811,
+        796,
+        7137,
+        13,
+        51368
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " They",
+          "start": 264.7,
+          "end": 265.18,
+          "probability": 0.9159311652183533
+        },
+        {
+          "word": " settled",
+          "start": 265.18,
+          "end": 265.44,
+          "probability": 0.9289740920066833
+        },
+        {
+          "word": " down",
+          "start": 265.44,
+          "end": 265.76,
+          "probability": 0.997524082660675
+        },
+        {
+          "word": " in",
+          "start": 265.76,
+          "end": 265.94,
+          "probability": 0.9939984083175659
+        },
+        {
+          "word": " the",
+          "start": 265.94,
+          "end": 266.02,
+          "probability": 0.9986431002616882
+        },
+        {
+          "word": " boat.",
+          "start": 266.02,
+          "end": 266.26,
+          "probability": 0.998214840888977
+        },
+        {
+          "word": " Harry",
+          "start": 266.6,
+          "end": 266.84,
+          "probability": 0.9969907999038696
+        },
+        {
+          "word": " still",
+          "start": 266.84,
+          "end": 267.38,
+          "probability": 0.7022332549095154
+        },
+        {
+          "word": " staring",
+          "start": 267.38,
+          "end": 268.04,
+          "probability": 0.33711713552474976
+        },
+        {
+          "word": " at",
+          "start": 268.04,
+          "end": 268.32,
+          "probability": 0.9981576800346375
+        },
+        {
+          "word": " Hagrid,",
+          "start": 268.32,
+          "end": 268.66,
+          "probability": 0.9991718828678131
+        },
+        {
+          "word": " trying",
+          "start": 269.0,
+          "end": 269.26,
+          "probability": 0.9990365505218506
+        },
+        {
+          "word": " to",
+          "start": 269.26,
+          "end": 269.42,
+          "probability": 0.9995840191841125
+        },
+        {
+          "word": " imagine",
+          "start": 269.42,
+          "end": 269.84,
+          "probability": 0.9948558807373047
+        },
+        {
+          "word": " him",
+          "start": 269.84,
+          "end": 270.18,
+          "probability": 0.9989711046218872
+        },
+        {
+          "word": " flying.",
+          "start": 270.18,
+          "end": 270.72,
+          "probability": 0.9922822117805481
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 25076,
+      "start": 271.7,
+      "end": 276.82,
+      "text": " Seems a shame to roll, though, said Hagrid, giving Harry another of his sideways looks.",
+      "tokens": [
+        51420,
+        22524,
+        257,
+        10069,
+        281,
+        3373,
+        11,
+        1673,
+        11,
+        848,
+        34758,
+        8558,
+        11,
+        2902,
+        9378,
+        1071,
+        295,
+        702,
+        26092,
+        1542,
+        13,
+        51668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1383034868060418,
+      "compression_ratio": 1.5791666666666666,
+      "no_speech_prob": 0.03479263558983803,
+      "words": [
+        {
+          "word": " Seems",
+          "start": 271.7,
+          "end": 272.18,
+          "probability": 0.2850228548049927
+        },
+        {
+          "word": " a",
+          "start": 272.18,
+          "end": 272.4,
+          "probability": 0.7619515657424927
+        },
+        {
+          "word": " shame",
+          "start": 272.4,
+          "end": 272.58,
+          "probability": 0.9932911396026611
+        },
+        {
+          "word": " to",
+          "start": 272.58,
+          "end": 272.76,
+          "probability": 0.9985079169273376
+        },
+        {
+          "word": " roll,",
+          "start": 272.76,
+          "end": 273.04,
+          "probability": 0.9652982950210571
+        },
+        {
+          "word": " though,",
+          "start": 273.2,
+          "end": 273.34,
+          "probability": 0.9981315732002258
+        },
+        {
+          "word": " said",
+          "start": 273.84,
+          "end": 274.04,
+          "probability": 0.997697651386261
+        },
+        {
+          "word": " Hagrid,",
+          "start": 274.04,
+          "end": 274.44,
+          "probability": 0.9995195865631104
+        },
+        {
+          "word": " giving",
+          "start": 274.62,
+          "end": 274.8,
+          "probability": 0.9983153343200684
+        },
+        {
+          "word": " Harry",
+          "start": 274.8,
+          "end": 275.14,
+          "probability": 0.9978259205818176
+        },
+        {
+          "word": " another",
+          "start": 275.14,
+          "end": 275.34,
+          "probability": 0.9948151707649231
+        },
+        {
+          "word": " of",
+          "start": 275.34,
+          "end": 275.58,
+          "probability": 0.9972094893455505
+        },
+        {
+          "word": " his",
+          "start": 275.58,
+          "end": 275.74,
+          "probability": 0.9982210993766785
+        },
+        {
+          "word": " sideways",
+          "start": 275.74,
+          "end": 276.24,
+          "probability": 0.9405139088630676
+        },
+        {
+          "word": " looks.",
+          "start": 276.24,
+          "end": 276.82,
+          "probability": 0.9937161803245544
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 27682,
+      "start": 277.46,
+      "end": 282.44,
+      "text": " If I was to speed things up a bit, would you mind not mention it at Hogwarts?",
+      "tokens": [
+        50396,
+        759,
+        286,
+        390,
+        281,
+        3073,
+        721,
+        493,
+        257,
+        857,
+        11,
+        576,
+        291,
+        1575,
+        406,
+        2152,
+        309,
+        412,
+        46539,
+        30,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09175968737829299,
+      "compression_ratio": 1.4829268292682927,
+      "no_speech_prob": 0.0007132674218155444,
+      "words": [
+        {
+          "word": " If",
+          "start": 277.42,
+          "end": 277.68,
+          "probability": 0.038063473999500275
+        },
+        {
+          "word": " I",
+          "start": 277.68,
+          "end": 277.88,
+          "probability": 0.9958243370056152
+        },
+        {
+          "word": " was",
+          "start": 277.88,
+          "end": 278.12,
+          "probability": 0.9466851353645325
+        },
+        {
+          "word": " to",
+          "start": 278.12,
+          "end": 278.56,
+          "probability": 0.9908576607704163
+        },
+        {
+          "word": " speed",
+          "start": 278.56,
+          "end": 279.46,
+          "probability": 0.8801363110542297
+        },
+        {
+          "word": " things",
+          "start": 279.46,
+          "end": 279.94,
+          "probability": 0.9889171123504639
+        },
+        {
+          "word": " up",
+          "start": 279.94,
+          "end": 280.16,
+          "probability": 0.9942765831947327
+        },
+        {
+          "word": " a",
+          "start": 280.16,
+          "end": 280.32,
+          "probability": 0.9925503730773926
+        },
+        {
+          "word": " bit,",
+          "start": 280.32,
+          "end": 280.48,
+          "probability": 0.9964626431465149
+        },
+        {
+          "word": " would",
+          "start": 280.9,
+          "end": 281.0,
+          "probability": 0.9787592887878418
+        },
+        {
+          "word": " you",
+          "start": 281.0,
+          "end": 281.14,
+          "probability": 0.9974128603935242
+        },
+        {
+          "word": " mind",
+          "start": 281.14,
+          "end": 281.26,
+          "probability": 0.9744637608528137
+        },
+        {
+          "word": " not",
+          "start": 281.26,
+          "end": 281.48,
+          "probability": 0.9987958669662476
+        },
+        {
+          "word": " mention",
+          "start": 281.48,
+          "end": 281.78,
+          "probability": 0.8135192394256592
+        },
+        {
+          "word": " it",
+          "start": 281.78,
+          "end": 281.96,
+          "probability": 0.9919038414955139
+        },
+        {
+          "word": " at",
+          "start": 281.96,
+          "end": 282.18,
+          "probability": 0.9359880685806274
+        },
+        {
+          "word": " Hogwarts?",
+          "start": 282.18,
+          "end": 282.44,
+          "probability": 0.981713593006134
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 27682,
+      "start": 283.28000000000003,
+      "end": 289.86,
+      "text": " Of course not, said Harry, eager to see more magic. Hagrid pulled out the pink umbrella again,",
+      "tokens": [
+        50700,
+        2720,
+        1164,
+        406,
+        11,
+        848,
+        9378,
+        11,
+        18259,
+        281,
+        536,
+        544,
+        5585,
+        13,
+        34758,
+        8558,
+        7373,
+        484,
+        264,
+        7022,
+        21925,
+        797,
+        11,
+        51028
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09175968737829299,
+      "compression_ratio": 1.4829268292682927,
+      "no_speech_prob": 0.0007132674218155444,
+      "words": [
+        {
+          "word": " Of",
+          "start": 283.28000000000003,
+          "end": 283.8,
+          "probability": 0.17360392212867737
+        },
+        {
+          "word": " course",
+          "start": 283.8,
+          "end": 284.1,
+          "probability": 0.9980952143669128
+        },
+        {
+          "word": " not,",
+          "start": 284.1,
+          "end": 284.42,
+          "probability": 0.9901592135429382
+        },
+        {
+          "word": " said",
+          "start": 284.66,
+          "end": 284.88,
+          "probability": 0.9965193271636963
+        },
+        {
+          "word": " Harry,",
+          "start": 284.88,
+          "end": 285.14,
+          "probability": 0.9911739230155945
+        },
+        {
+          "word": " eager",
+          "start": 285.4,
+          "end": 285.64,
+          "probability": 0.9947441816329956
+        },
+        {
+          "word": " to",
+          "start": 285.64,
+          "end": 285.86,
+          "probability": 0.9994444251060486
+        },
+        {
+          "word": " see",
+          "start": 285.86,
+          "end": 286.08,
+          "probability": 0.9977846741676331
+        },
+        {
+          "word": " more",
+          "start": 286.08,
+          "end": 286.34,
+          "probability": 0.996576726436615
+        },
+        {
+          "word": " magic.",
+          "start": 286.34,
+          "end": 286.72,
+          "probability": 0.9940207600593567
+        },
+        {
+          "word": " Hagrid",
+          "start": 287.5,
+          "end": 287.84,
+          "probability": 0.9971089661121368
+        },
+        {
+          "word": " pulled",
+          "start": 287.84,
+          "end": 288.4,
+          "probability": 0.9496924877166748
+        },
+        {
+          "word": " out",
+          "start": 288.4,
+          "end": 288.62,
+          "probability": 0.9948669672012329
+        },
+        {
+          "word": " the",
+          "start": 288.62,
+          "end": 288.8,
+          "probability": 0.9958438277244568
+        },
+        {
+          "word": " pink",
+          "start": 288.8,
+          "end": 289.02,
+          "probability": 0.9669150710105896
+        },
+        {
+          "word": " umbrella",
+          "start": 289.02,
+          "end": 289.36,
+          "probability": 0.995536208152771
+        },
+        {
+          "word": " again,",
+          "start": 289.36,
+          "end": 289.86,
+          "probability": 0.9931902289390564
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 27682,
+      "start": 290.24,
+      "end": 294.12,
+      "text": " tapped it twice on the side of the boat, and they sped off towards land.",
+      "tokens": [
+        51028,
+        38693,
+        309,
+        6091,
+        322,
+        264,
+        1252,
+        295,
+        264,
+        6582,
+        11,
+        293,
+        436,
+        637,
+        292,
+        766,
+        3030,
+        2117,
+        13,
+        51232
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09175968737829299,
+      "compression_ratio": 1.4829268292682927,
+      "no_speech_prob": 0.0007132674218155444,
+      "words": [
+        {
+          "word": " tapped",
+          "start": 290.24,
+          "end": 290.42,
+          "probability": 0.9954909682273865
+        },
+        {
+          "word": " it",
+          "start": 290.42,
+          "end": 290.64,
+          "probability": 0.9993345141410828
+        },
+        {
+          "word": " twice",
+          "start": 290.64,
+          "end": 291.02,
+          "probability": 0.9959575533866882
+        },
+        {
+          "word": " on",
+          "start": 291.02,
+          "end": 291.32,
+          "probability": 0.9897119998931885
+        },
+        {
+          "word": " the",
+          "start": 291.32,
+          "end": 291.42,
+          "probability": 0.9972155094146729
+        },
+        {
+          "word": " side",
+          "start": 291.42,
+          "end": 291.64,
+          "probability": 0.9967664480209351
+        },
+        {
+          "word": " of",
+          "start": 291.64,
+          "end": 291.78,
+          "probability": 0.9973199963569641
+        },
+        {
+          "word": " the",
+          "start": 291.78,
+          "end": 291.84,
+          "probability": 0.9973322153091431
+        },
+        {
+          "word": " boat,",
+          "start": 291.84,
+          "end": 292.1,
+          "probability": 0.9971708655357361
+        },
+        {
+          "word": " and",
+          "start": 292.6,
+          "end": 292.76,
+          "probability": 0.9982337951660156
+        },
+        {
+          "word": " they",
+          "start": 292.76,
+          "end": 292.88,
+          "probability": 0.9798147082328796
+        },
+        {
+          "word": " sped",
+          "start": 292.88,
+          "end": 293.24,
+          "probability": 0.9917876124382019
+        },
+        {
+          "word": " off",
+          "start": 293.24,
+          "end": 293.4,
+          "probability": 0.9955011010169983
+        },
+        {
+          "word": " towards",
+          "start": 293.4,
+          "end": 293.68,
+          "probability": 0.9290809631347656
+        },
+        {
+          "word": " land.",
+          "start": 293.68,
+          "end": 294.12,
+          "probability": 0.9534540772438049
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 27682,
+      "start": 295.38,
+      "end": 299.44,
+      "text": " Why would you be mad to try and rob Gringots? Harry asked.",
+      "tokens": [
+        51300,
+        1545,
+        576,
+        291,
+        312,
+        5244,
+        281,
+        853,
+        293,
+        3870,
+        2606,
+        278,
+        1971,
+        30,
+        9378,
+        2351,
+        13,
+        51512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09175968737829299,
+      "compression_ratio": 1.4829268292682927,
+      "no_speech_prob": 0.0007132674218155444,
+      "words": [
+        {
+          "word": " Why",
+          "start": 295.38,
+          "end": 295.9,
+          "probability": 0.05975499004125595
+        },
+        {
+          "word": " would",
+          "start": 295.9,
+          "end": 296.12,
+          "probability": 0.9947627186775208
+        },
+        {
+          "word": " you",
+          "start": 296.12,
+          "end": 296.26,
+          "probability": 0.9966277480125427
+        },
+        {
+          "word": " be",
+          "start": 296.26,
+          "end": 296.42,
+          "probability": 0.9963698387145996
+        },
+        {
+          "word": " mad",
+          "start": 296.42,
+          "end": 296.8,
+          "probability": 0.9973383545875549
+        },
+        {
+          "word": " to",
+          "start": 296.8,
+          "end": 297.02,
+          "probability": 0.9939729571342468
+        },
+        {
+          "word": " try",
+          "start": 297.02,
+          "end": 297.26,
+          "probability": 0.9990628361701965
+        },
+        {
+          "word": " and",
+          "start": 297.26,
+          "end": 297.4,
+          "probability": 0.9779620170593262
+        },
+        {
+          "word": " rob",
+          "start": 297.4,
+          "end": 297.62,
+          "probability": 0.9901841282844543
+        },
+        {
+          "word": " Gringots?",
+          "start": 297.62,
+          "end": 298.38,
+          "probability": 0.6857485870520273
+        },
+        {
+          "word": " Harry",
+          "start": 298.76,
+          "end": 299.06,
+          "probability": 0.9733582735061646
+        },
+        {
+          "word": " asked.",
+          "start": 299.06,
+          "end": 299.44,
+          "probability": 0.9967756867408752
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

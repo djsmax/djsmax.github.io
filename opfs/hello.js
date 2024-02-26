@@ -132,19 +132,18 @@ class HlsOPFSDownloader {
     }
 
     async downloadAndStoreSegment(segUrl, fileHandle) {
-        fetch(segUrl).then(async res => {
-            if (!res.ok) {
-                throw "can't fetch segment"
-            }
-            const wtr = await fileHandle.createWritable()
-            try {
-                // Then write the Blob object directly:
-                await wtr.write(await res.blob())
-            } finally {
-                // And safely close the file stream writer:
-                await wtr.close()
-            }
-        })
+        let response = await fetch(segUrl)
+        if (!response.ok) {
+            throw "can't fetch segment"
+        }
+        const wtr = await fileHandle.createWritable()
+        try {
+            // Then write the Blob object directly:
+            await wtr.write(await response.blob())
+        } finally {
+            // And safely close the file stream writer:
+            await wtr.close()
+        }
     }
 
     async saveInlineInfo(fileHandle, inlineData) {
@@ -286,10 +285,14 @@ async function downloadStream() {
     downloader.onProgress = (current, total) => {
         let p = document.createElement("p")
         p.innerText = "dl - " + current + " - " + total
-        progressSpan.appendChild(p)
+        progressSpan.insertBefore(p, progressSpan.firstChild)
     }
     await downloader.download(inlineData)
 }
 
+async function removeStream() {
+    const root = await getRoot()
+    root.removeEntry("downloaded_test", {recursive: true})
+}
 
 // testHls().then()

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>OPFS Demo</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.min.js"
+            integrity="sha512-js37JxjD6gtmJ3N2Qzl9vQm4wcmTilFffk0nTSKzgr3p6aitg73LR205203wTzCCC/NZYO2TAxSa0Lr2VMLQvQ=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="hello.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #progress {
+            height: 300px;
+            overflow-y: scroll;
+        }
+        #progress p {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+<div id="player1">
+    <video id="video-1" autobuffer="true" data-setup="{}" controls>
+        <p>Your browser does not support html5 video!</p>
+    </video>
+</div>
+<p>Use le boutons:</p>
+<button onclick="downloadStream()">Download (Achtung, 180 Mb!)</button>
+<button onclick="createStream()">Play back (offline)</button>
+
+<p>Progress:</p>
+<div id="progress">
+
+</div>
+</body>
+</html>

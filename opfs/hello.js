@@ -1,16 +1,3 @@
-async function getRoot() {
-    // Open the "root" of the website's (origin's) private filesystem:
-    let storageRoot = null
-    try {
-        storageRoot = await navigator.storage.getDirectory()
-    } catch (err) {
-        console.error(err)
-        alert("Couldn't open OPFS. See browser console.\n\n" + err)
-        return
-    }
-
-    return storageRoot
-}
 
 class HlsProcessing {
 
@@ -132,16 +119,12 @@ class HlsOPFSDownloader {
 
         // Create a web worker
         this.worker = new Worker("worker.js")
-        alert("made worker")
     }
 
     async callWorkerMethod(method, args) {
         return new Promise((resolve, reject) => {
             try {
-                alert("callWorker " + method + " " + JSON.stringify(args))
                 this.worker.onmessage = (event) => {
-                    alert("workerMsg " + event.data.result)
-
                     if (event.data.error) {
                         alert(event.data.error)
                         reject(event.data.error)
@@ -156,33 +139,36 @@ class HlsOPFSDownloader {
         })
     }
 
-    async downloadAndStoreSegment(segUrl, fileHandle) {
-        await this.callWorkerMethod("downloadAndStoreSegment", [segUrl, fileHandle]);
+    async downloadAndStoreSegment(segUrl, path) {
+        await this.callWorkerMethod("downloadAndStoreSegment", [segUrl, path]);
     }
 
 
-    async saveInlineInfo(fileHandle, inlineData) {
-        await this.callWorkerMethod("saveInlineInfo", [fileHandle, inlineData]);
+    async saveInlineInfo(path, inlineData) {
+        await this.callWorkerMethod("saveInlineInfo", [path, inlineData]);
     }
 
-    async readInlineFile(file) {
-        return this.callWorkerMethod("readInlineFile", [file]);
+    async readInlineFile(path) {
+        return this.callWorkerMethod("readInlineFile", [path]);
+    }
+
+    async getAsURL(path) {
+        return this.callWorkerMethod("getAsURL", [path]);
+    }
+
+    async removeEntry(root, name) {
+        return this.callWorkerMethod("removeEntry", [this.downloadFolderName]);
     }
 
     async download(inlineData) {
         const totalSegments = inlineData.segments.length
 
-        let storageRoot = await getRoot()
-        const subdir = await storageRoot.getDirectoryHandle(this.downloadFolderName,
-            {"create": true})
-        let inlineFileHandle = await subdir.getFileHandle("data.json", {create: true})
-        await this.saveInlineInfo(inlineFileHandle, inlineData)
-        alert("past saveInlineInfo")
+        let inlineFilePath = [this.downloadFolderName, "data.json"]
+        await this.saveInlineInfo(inlineFilePath, inlineData)
         while (this.currentSegment < totalSegments) {
-            const newFileHandle = await subdir.getFileHandle(this.currentSegment + ".ts",
-                {"create": true})
+            let newFilePath = [this.downloadFolderName, this.currentSegment + ".ts"]
             let segmentUrl = inlineData.segments[this.currentSegment]
-            await this.downloadAndStoreSegment(segmentUrl, newFileHandle)
+            await this.downloadAndStoreSegment(segmentUrl, newFilePath)
             if (this.onProgress) {
                 setTimeout(() => this.onProgress(this.currentSegment, totalSegments), 1)
             }
@@ -192,16 +178,12 @@ class HlsOPFSDownloader {
     }
 
     async restore() {
-        let storageRoot = await getRoot()
-        const subdir = await storageRoot.getDirectoryHandle(this.downloadFolderName)
-        let inlineFileHandle = await subdir.getFileHandle("data.json", {create: true})
-        let inlineFile = await inlineFileHandle.getFile()
-        let inlineData = await this.readInlineFile(inlineFile)
+        const inlineFilePath = [this.downloadFolderName, "data.json"]
+        let inlineData = await this.readInlineFile(inlineFilePath)
         let results = []
         for (let segmentIndex = 0; segmentIndex < inlineData.segments.length; segmentIndex++) {
-            let fileHandle = await subdir.getFileHandle(segmentIndex + ".ts")
-            let file = await fileHandle.getFile()
-            let urlString = URL.createObjectURL(file)
+            let filePath = [this.downloadFolderName, segmentIndex + ".ts"]
+            let urlString = await this.getAsURL(filePath)
             results.push(urlString)
         }
         let restoredData = await this.restoreInlineData(inlineData, results)
@@ -214,39 +196,6 @@ class HlsOPFSDownloader {
         return inlineData
     }
 
-}
-
-async function testHls() {
-    // downloading: fetch the manifest, convert HLS manifest to an internal format
-    // pass inline data to the downloader, the rest is managed internally
-
-    // const hlsToDownload = "https://bitdash-a.akamaihd.net/content/sintel/hls/video/10000kbit.m3u8"
-    // const hlsRawData = await (await fetch(hlsToDownload)).text()
-    // const processor = new HlsProcessing()
-    // // process manifest into an own custom format "inline"
-    // let inlineData = processor.toInline(hlsRawData.replaceAll("\r", ""))
-    // console.info(inlineData)
-
-    // const downloader = new HlsOPFSDownloader("downloaded_test")
-    // await downloader.download(inlineData)
-
-
-
-    // offline watching: pass existing folder name without any other data
-    // the rest is, again, managed internally
-
-    const offlineLoader = new HlsOPFSDownloader("downloaded_test")
-    let restoreResults = await offlineLoader.restore()
-    console.info(restoreResults)
-
-    // reconstruct the manifest using processor
-    const processor = new HlsProcessing()
-    let fullyOfflineManifest = processor.toManifest(restoreResults.restoredData)
-    console.info(fullyOfflineManifest)
-
-
-
-    // debugger
 }
 
 async function createStream() {
@@ -291,8 +240,8 @@ async function downloadStream() {
 }
 
 async function removeStream() {
-    const root = await getRoot()
-    root.removeEntry("downloaded_test", {recursive: true})
+    const downloader = new HlsOPFSDownloader("downloaded_test")
+    await downloader.removeEntry()
 }
 
 // testHls().then()

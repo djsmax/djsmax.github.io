@@ -138,7 +138,7 @@ class HlsOPFSDownloader {
     async callWorkerMethod(method, args) {
         return new Promise((resolve, reject) => {
             try {
-                alert("callWorker " + method + " " + args)
+                alert("callWorker " + method + " " + JSON.stringify(args))
                 this.worker.onmessage = (event) => {
                     alert("workerMsg " + event.data.result)
 

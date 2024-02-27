@@ -132,11 +132,15 @@ class HlsOPFSDownloader {
 
         // Create a web worker
         this.worker = new Worker("worker.js")
+        alert("made worker")
     }
 
     async callWorkerMethod(method, args) {
         return new Promise((resolve, reject) => {
+            alert("callWorker " + method + " " + args)
             this.worker.onmessage = (event) => {
+                alert("workerMsg " + event.data.result)
+
                 if (event.data.error) {
                     alert(event.data.error)
                     reject(event.data.error)
@@ -163,13 +167,17 @@ class HlsOPFSDownloader {
 
     async download(inlineData) {
         const totalSegments = inlineData.segments.length
-        debugger
+        alert("total segmentatos " + totalSegments)
 
         let storageRoot = await getRoot()
+        alert("got root? " + storageRoot)
         const subdir = await storageRoot.getDirectoryHandle(this.downloadFolderName,
             {"create": true})
+        alert("got subdir? " + subdir)
         let inlineFileHandle = await subdir.getFileHandle("data.json", {create: true})
+        alert("got handle? " + inlineFileHandle)
         await this.saveInlineInfo(inlineFileHandle, inlineData)
+        alert("past saveInlineInfo")
         while (this.currentSegment < totalSegments) {
             const newFileHandle = await subdir.getFileHandle(this.currentSegment + ".ts",
                 {"create": true})

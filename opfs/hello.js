@@ -129,34 +129,37 @@ class HlsOPFSDownloader {
         // downloader, for progress restore
         this.currentSegment = 0
         this.onProgress = null
+
+        // Create a web worker
+        this.worker = new Worker("worker.js")
+    }
+
+    async callWorkerMethod(method, args) {
+        return new Promise((resolve) => {
+            this.worker.onmessage = (event) => {
+                resolve(event.data.result);
+            }
+
+            this.worker.postMessage({ method, args })
+        })
     }
 
     async downloadAndStoreSegment(segUrl, fileHandle) {
-        let response = await fetch(segUrl)
-        if (!response.ok) {
-            throw "can't fetch segment"
-        }
-        const wtr = await fileHandle.createSyncAccessHandle()
-        try {
-            // Then write the Blob object directly:
-            wtr.write(await response.arrayBuffer())
-        } finally {
-            // And safely close the file stream writer:
-            await wtr.close()
-        }
+        await this.callWorkerMethod("downloadAndStoreSegment", [segUrl, fileHandle]);
     }
 
+
     async saveInlineInfo(fileHandle, inlineData) {
-        const wtr = await fileHandle.createSyncAccessHandle()
-        try {
-            wtr.write(new TextEncoder().encode(JSON.stringify(inlineData)))
-        } finally {
-            await wtr.close()
-        }
+        await this.callWorkerMethod("saveInlineInfo", [fileHandle, inlineData]);
+    }
+
+    async readInlineFile(file) {
+        return this.callWorkerMethod("readInlineFile", [file]);
     }
 
     async download(inlineData) {
         const totalSegments = inlineData.segments.length
+        debugger
 
         let storageRoot = await getRoot()
         const subdir = await storageRoot.getDirectoryHandle(this.downloadFolderName,
@@ -197,21 +200,6 @@ class HlsOPFSDownloader {
         // spoof "online" segment URLs with "offline" blobs
         inlineData.segments = segmentList
         return inlineData
-    }
-
-    async readInlineFile(file) {
-        return new Promise((res, rej) => {
-            let reader = new FileReader()
-            reader.readAsText(file)
-
-            reader.onload = function () {
-                res(JSON.parse(reader.result))
-            }
-
-            reader.onerror = function () {
-                rej("inline is unreadable")
-            }
-        })
     }
 
 }

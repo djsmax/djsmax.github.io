@@ -1,7 +1,6 @@
 onmessage = async function (event) {
     const { method, args } = event.data;
     try {
-
         switch (method) {
             case "downloadAndStoreSegment":
                 await downloadAndStoreSegment(...args);

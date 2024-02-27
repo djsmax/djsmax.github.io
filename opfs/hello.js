@@ -136,10 +136,10 @@ class HlsOPFSDownloader {
         if (!response.ok) {
             throw "can't fetch segment"
         }
-        const wtr = await fileHandle.createWritable()
+        const wtr = await fileHandle.createSyncAccessHandle()
         try {
             // Then write the Blob object directly:
-            await wtr.write(await response.blob())
+            wtr.write(await response.arrayBuffer())
         } finally {
             // And safely close the file stream writer:
             await wtr.close()
@@ -147,9 +147,9 @@ class HlsOPFSDownloader {
     }
 
     async saveInlineInfo(fileHandle, inlineData) {
-        const wtr = await fileHandle.createWritable()
+        const wtr = await fileHandle.createSyncAccessHandle()
         try {
-            await wtr.write(JSON.stringify(inlineData))
+            wtr.write(new TextEncoder().encode(JSON.stringify(inlineData)))
         } finally {
             await wtr.close()
         }

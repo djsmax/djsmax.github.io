@@ -17,7 +17,7 @@ onmessage = async function (event) {
                 break;
         }
     } catch (e) {
-        alert(e)
+        postMessage({error: e});
     }
 }
 

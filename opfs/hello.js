@@ -135,8 +135,12 @@ class HlsOPFSDownloader {
     }
 
     async callWorkerMethod(method, args) {
-        return new Promise((resolve) => {
+        return new Promise((resolve, reject) => {
             this.worker.onmessage = (event) => {
+                if (event.data.error) {
+                    alert(event.data.error)
+                    reject(event.data.error)
+                }
                 resolve(event.data.result);
             }
 

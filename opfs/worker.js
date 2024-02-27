@@ -1,21 +1,25 @@
 onmessage = async function (event) {
     const { method, args } = event.data;
+    try {
 
-    switch (method) {
-        case "downloadAndStoreSegment":
-            await downloadAndStoreSegment(...args);
-            postMessage({result: true});
-            break;
-        case "saveInlineInfo":
-            await saveInlineInfo(...args);
-            postMessage({result: true});
-            break;
-        case "readInlineFile":
-            const result = await readInlineFile(...args);
-            postMessage({ result });
-            break;
+        switch (method) {
+            case "downloadAndStoreSegment":
+                await downloadAndStoreSegment(...args);
+                postMessage({result: true});
+                break;
+            case "saveInlineInfo":
+                await saveInlineInfo(...args);
+                postMessage({result: true});
+                break;
+            case "readInlineFile":
+                const result = await readInlineFile(...args);
+                postMessage({result});
+                break;
+        }
+    } catch (e) {
+        alert(e)
     }
-};
+}
 
 async function downloadAndStoreSegment(segUrl, fileHandle) {
     let response = await fetch(segUrl);

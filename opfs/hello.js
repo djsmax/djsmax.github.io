@@ -137,18 +137,22 @@ class HlsOPFSDownloader {
 
     async callWorkerMethod(method, args) {
         return new Promise((resolve, reject) => {
-            alert("callWorker " + method + " " + args)
-            this.worker.onmessage = (event) => {
-                alert("workerMsg " + event.data.result)
+            try {
+                alert("callWorker " + method + " " + args)
+                this.worker.onmessage = (event) => {
+                    alert("workerMsg " + event.data.result)
 
-                if (event.data.error) {
-                    alert(event.data.error)
-                    reject(event.data.error)
+                    if (event.data.error) {
+                        alert(event.data.error)
+                        reject(event.data.error)
+                    }
+                    resolve(event.data.result);
                 }
-                resolve(event.data.result);
-            }
 
-            this.worker.postMessage({ method, args })
+                this.worker.postMessage({method, args})
+            } catch (e) {
+                alert("wtf? " + e)
+            }
         })
     }
 
@@ -167,15 +171,11 @@ class HlsOPFSDownloader {
 
     async download(inlineData) {
         const totalSegments = inlineData.segments.length
-        alert("total segmentatos " + totalSegments)
 
         let storageRoot = await getRoot()
-        alert("got root? " + storageRoot)
         const subdir = await storageRoot.getDirectoryHandle(this.downloadFolderName,
             {"create": true})
-        alert("got subdir? " + subdir)
         let inlineFileHandle = await subdir.getFileHandle("data.json", {create: true})
-        alert("got handle? " + inlineFileHandle)
         await this.saveInlineInfo(inlineFileHandle, inlineData)
         alert("past saveInlineInfo")
         while (this.currentSegment < totalSegments) {
